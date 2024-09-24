@@ -15,8 +15,8 @@
 == Cadres de gouvernance IT
 
 * link:./cobit.html[COBIT (Control Objectives for Information and Related Technologies)]
-* link:./iso-iec-385000.html[ISO/IEC 38500 - Norme internationale de gouvernance IT]
-* link:./itil.hmtl[ITIL (Information Technology Infrastructure Library)]
+* link:./iso-iec-38500.html[ISO/IEC 38500 - Norme internationale de gouvernance IT]
+* link:./itil.html[ITIL (Information Technology Infrastructure Library)]
 
 
 === Rôle de la gouvernance IT dans la cybersécurité
@@ -99,8 +99,8 @@
 
 == Stratégie de gouvernance IT et alignement avec la cybersécurité 
 
+* link:./alignement-cyb-gouv-it.html[Alignement]
 * Développement de la stratégie IT
-
 * Définir une stratégie IT alignée avec la mission et les objectifs d'entreprise.
 
 === ...
@@ -141,6 +141,37 @@
 
 * Formation et développement des employés.
 * Promotion d’une culture de la sécurité au sein des organisations.
+
+
+== En savoir plus
+
+
+=== Méthodes et Cadres SI
+
+* link:./methode-zachman.html[Cadre Zachman]
+* link:./methodes.html[Méthodes et cadres SI]
+
+=== CMDB
+
+* link:./cmdb.html[CMDB]
+
+
+=== ERP
+
+* link:./erp.html[ERP]
+
+=== SMSI
+
+* link:./smsi.html[SMSI]
+
+=== Faille humaine
+
+* link:./zero-trust.html[Zéro Trust et Defense in Depth]
+* link:./inge-sociale.html[Ingénierie sociale]
+
+=== DMZ
+
+* link:./dmz.html[DMZ]
 
 
 
