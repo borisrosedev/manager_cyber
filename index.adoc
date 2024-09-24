@@ -6,15 +6,15 @@
 == Définition et importance de la gouvernance IT
 
 * link:./gouv-it-gesstion-it.html[Gouvernance IT vs gestion IT]
-Objectifs de la gouvernance IT : alignement stratégique, optimisation des ressources, gestion des risques, conformité.
-Liens avec la gouvernance d’entreprise.
+* Objectifs de la gouvernance IT : alignement stratégique, optimisation des ressources, gestion des risques, conformité.
+* Liens avec la gouvernance d’entreprise.
 
 
 == Cadres de gouvernance IT
 
-COBIT (Control Objectives for Information and Related Technologies).
-ISO/IEC 38500 - Norme internationale de gouvernance IT.
-ITIL (Information Technology Infrastructure Library).
+* COBIT (Control Objectives for Information and Related Technologies).
+* ISO/IEC 38500 - Norme internationale de gouvernance IT.
+* ITIL (Information Technology Infrastructure Library).
 
 
 === Rôle de la gouvernance IT dans la cybersécurité
