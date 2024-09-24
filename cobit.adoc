@@ -1,0 +1,138 @@
+= COBIT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+COBIT (Control Objectives for Information and Related Technologies) est un cadre de gouvernance IT développé par l'ISACA (Information Systems Audit and Control Association). 
+
+=== ...
+
+Il est utilisé pour aider les entreprises:
+[%step]
+* à développer, 
+* organiser 
+* implémenter 
+
+=== ...
+
+des stratégies efficaces de gouvernance et de gestion des technologies de l'information (IT). 
+
+
+=== ...
+
+COBIT est largement utilisé pour aligner l’IT avec les objectifs de l’entreprise, tout en gérant:
+[%step]
+* les risques, 
+* la conformité
+* l'efficacité opérationnelle.
+
+
+== Principaux concepts de COBIT
+
+=== Gouvernance et gestion IT : 
+
+COBIT établit une distinction entre la gouvernance et la gestion IT. 
+
+=== ...
+
+La gouvernance IT est centrée sur l'évaluation des besoins, la fixation des objectifs stratégiques, et le contrôle, 
+
+=== ...
+
+Tandis que la gestion IT est orientée vers la mise en œuvre des plans pour atteindre ces objectifs.
+
+=== Alignement avec les objectifs de l’entreprise : 
+
+L’un des principaux objectifs de COBIT est d’assurer que l’IT soutient pleinement la stratégie et les objectifs commerciaux de l’entreprise.
+
+=== ...
+
+Il met en place des outils pour lier les besoins business aux solutions IT, tout en veillant à ce que la technologie apporte de la valeur ajoutée.
+
+=== Approche basée sur les processus : 
+
+COBIT divise la gouvernance et la gestion IT en 40 processus, chacun avec ses propres objectifs et bonnes pratiques. 
+
+=== ...
+
+Ces processus sont regroupés dans des domaines spécifiques de la gouvernance ou de la gestion :
+
+=== Aligner, Planifier et Organiser (APO) : 
+
+Stratégie et gestion des risques.
+
+=== Construire, Acquérir et Implémenter (BAI) : 
+
+Développement et acquisition de solutions IT.
+
+=== Livrer, Service et Support (DSS) : 
+
+Opérations et gestion des services IT.
+
+=== Évaluer, Diriger et Surveiller (EDM) : 
+
+Gouvernance et supervision des activités IT.
+
+== Principes de COBIT 2019 : 
+
+COBIT 2019, la dernière version, repose sur les principes suivants :
+
+=== Répondre aux besoins des parties prenantes : 
+
+Assurer que les attentes des parties prenantes sont prises en compte.
+
+=== Couvrir l'entreprise de bout en bout : 
+
+Inclure toutes les fonctions et processus de l'entreprise.
+
+=== Appliquer un cadre unique et intégré : 
+
+Utiliser un cadre unifié pour toutes les pratiques de gouvernance.
+
+=== Activer une approche holistique : 
+
+Considérer les facteurs organisationnels, culturels et technologiques.
+
+=== Séparer la gouvernance et la gestion : 
+
+S’assurer que la gouvernance et la gestion IT ont des rôles distincts mais complémentaires.
+
+== Avantages de COBIT
+
+=== Alignement stratégique : 
+
+COBIT aide à aligner les objectifs IT avec les objectifs commerciaux, en garantissant que l'IT apporte de la valeur ajoutée à l'organisation.
+
+=== Gestion des risques : 
+
+Le cadre permet de mieux identifier, évaluer et gérer les risques liés à l'IT, en s’assurant que l'entreprise est protégée contre les menaces technologiques.
+
+=== Conformité : 
+
+COBIT est souvent utilisé pour assurer la conformité aux régulations et standards en matière de sécurité et de gouvernance IT (comme le RGPD, SOX, etc.).
+
+=== Optimisation des ressources : 
+Il aide à gérer efficacement les ressources IT, en optimisant leur utilisation et en maximisant le retour sur investissement.
+
+=== Amélioration de la performance :
+
+En suivant les processus et pratiques recommandées par COBIT, les entreprises peuvent améliorer la performance de leurs systèmes IT et de leurs services.
+
+== Utilisation de COBIT
+
+COBIT est souvent utilisé dans des secteurs réglementés, comme la finance, la santé, et les télécommunications, mais il est applicable à toute entreprise cherchant à améliorer sa gouvernance et sa gestion IT. 
+
+=== ...
+
+Les auditeurs, responsables de la sécurité de l'information et directeurs IT l’utilisent comme référence pour évaluer l'efficacité des contrôles IT et assurer la gestion des risques.
+
+
+
+
+
+
+
+

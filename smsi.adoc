@@ -1,0 +1,183 @@
+= Le SMSI
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+Le SMSI (Système de Management de la Sécurité de l'Information), ou ISMS en anglais (Information Security Management System), ...
+
+
+=== ...
+
+
+est un cadre systématique défini par la norme ISO/IEC 27001footnote:[ link:./iso-27001.html[Cours sur ISO-27001 version html]] pour gérer la sécurité de l'information au sein d'une organisation. 
+
+=== ...
+
+Il vise à protéger la confidentialité, l'intégrité, et la disponibilité des informations en utilisant une approche basée sur l'analyse des risques.
+
+
+== Objectifs du SMSI
+
+Le SMSI a pour objectif de :
+
+=== Protéger les informations sensibles : 
+
+Garantir que seules les personnes autorisées ont accès aux informations et que celles-ci sont protégées contre toute altération ou perte.
+
+=== Gérer les risques de sécurité de l'information : 
+
+Identifier, évaluer et traiter les risques liés à la sécurité des informations de manière proactive.
+
+=== Assurer la conformité : 
+
+Se conformer aux réglementations, législations et exigences contractuelles relatives à la sécurité de l'information, telles que:
+[%step]
+* le RGPD 
+* d'autres lois sur la protection des données footnote:[link:./regulations-coso-sox-rgpd.html[Cours sur les régulations]].
+
+=== Améliorer en continu : 
+
+Mettre en œuvre un processus d'amélioration continue pour renforcer les pratiques de sécurité et s'adapter à l'évolution des menaces et des besoins organisationnels.
+
+
+== Composants d'un SMSI
+
+=== Politique de sécurité de l'information :
+
+Définition des règles, des objectifs et des attentes concernant la gestion des informations sensibles au sein de l'organisation.
+
+=== Gestion des risques :
+
+Processus d'identification, d'évaluation, et de gestion des risques de sécurité. 
+
+=== ...
+
+Il s'agit d'analyser les menaces potentielles et de déterminer la probabilité et l'impact de chaque risque pour décider des mesures de traitement appropriées.
+
+=== Contrôles de sécurité :
+
+Mise en place de mesures de sécurité pour prévenir, détecter et répondre aux menaces. 
+
+=== ...
+
+Ces contrôles peuvent inclure des mesures:
+[%step]
+* techniques (ex. : cryptage, contrôle d'accès), 
+* organisationnelles (ex. : formation du personnel) 
+* physiques (ex. : surveillance des locaux).
+
+
+== Documentation et processus :
+
+La documentation du SMSI inclut les politiques, procédures, processus et rôles au sein de l'organisation. 
+
+=== ...
+
+Cette documentation doit être régulièrement mise à jour et accessible aux parties prenantes.
+
+== Audit interne :
+
+Le SMSI doit être audité régulièrement pour vérifier que les mesures de sécurité mises en place sont efficaces et conformes aux exigences de l'ISO 27001.
+
+== Amélioration continue :
+
+Comme le stipule la norme ISO 27001, un SMSI doit être continuellement évalué et amélioré pour rester pertinent et efficace. 
+
+=== ...
+
+Le cycle PDCA (Plan, Do, Check, Act) est souvent utilisé pour structurer cette amélioration continue.
+
+== Processus de mise en œuvre du SMSI
+
+La mise en œuvre d'un SMSI suit plusieurs étapes clés :
+
+=== Définir le périmètre du SMSI :
+
+Identifier quelles informations et systèmes seront couverts par le SMSI. 
+
+=== ...
+
+Cela inclut souvent les actifs informationnels critiques, tels que les bases de données, les systèmes ERP, ou les fichiers sensibles des employés et clients.
+
+
+=== Évaluer les risques :
+
+Une analyse des risques est effectuée pour identifier:
+[%step]
+* les menaces potentielles, 
+* les vulnérabilités,
+* les impacts que ces risques pourraient avoir sur l'organisation.
+
+=== Définir les mesures de sécurité :
+
+Une fois les risques identifiés, des contrôles de sécurité spécifiques sont mis en place pour réduire ces risques à un niveau acceptable. 
+
+
+=== ...
+
+Ces mesures peuvent être tirées de l'annexe A de l'ISO 27001, qui propose 114 contrôles de sécurité.
+
+=== Établir des politiques et des procédures :
+
+L'organisation doit créer des politiques claires et des procédures opérationnelles pour s'assurer que la sécurité de l'information est bien gérée.
+
+=== Former le personnel :
+
+Les employés doivent être formés aux pratiques de sécurité de l'information, aux politiques internes, et à l'importance de la protection des données sensibles.
+
+=== Surveiller et améliorer :
+
+Une fois le SMSI en place, il est essentiel de surveiller régulièrement la performance des contrôles de sécurité, d'effectuer des audits, et d'améliorer les processus en fonction des résultats obtenus et des nouvelles menaces.
+
+
+
+== Cycle PDCA (Plan, Do, Check, Act)
+
+L'amélioration continue dans un SMSI suit souvent le modèle PDCA (Plan, Do, Check, Act) qui se décompose comme suit :
+
+=== Plan (Planifier) :
+
+Identifier les objectifs de sécurité de l'information, évaluer les risques et planifier les contrôles à mettre en œuvre pour protéger les informations.
+
+=== Do (Faire) :
+
+Mettre en œuvre les contrôles de sécurité prévus et les processus définis dans la phase de planification.
+
+=== Check (Vérifier) :
+
+Surveiller et mesurer les performances du SMSI par rapport aux objectifs fixés. 
+
+=== ...
+
+Cela inclut la conduite d'audits internes pour évaluer l'efficacité des mesures.
+
+=== Act (Agir) :
+
+Prendre les mesures correctives nécessaires pour améliorer le système et ajuster les processus en fonction des résultats obtenus lors de la phase de vérification.
+
+
+
+== Avantages d'un SMSI
+
+=== Réduction des risques :
+
+Un SMSI permet de gérer de manière proactive les risques liés à la sécurité de l'information, réduisant ainsi les chances de violation de données, de cyberattaques ou de fuites d'informations sensibles.
+
+=== Conformité :
+
+En suivant l'ISO 27001, les organisations s'assurent qu'elles respectent les réglementations légales et les exigences contractuelles relatives à la sécurité de l'information (RGPD, SOX, etc.).
+
+=== Confiance accrue des parties prenantes :
+
+La mise en œuvre d'un SMSI montre aux clients, partenaires et investisseurs que l'organisation prend la sécurité de l'information au sérieux, ce qui renforce la confiance et améliore la réputation.
+
+=== Protection des actifs informationnels :
+
+En identifiant et en sécurisant les actifs critiques, un SMSI garantit que les informations vitales pour l'organisation sont protégées contre les pertes, les fuites ou les attaques.
+
+=== Amélioration continue :
+
+Grâce à l'approche systématique du SMSI, les organisations peuvent s'adapter aux nouvelles menaces et améliorer constamment leurs pratiques de sécurité.

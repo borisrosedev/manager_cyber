@@ -1,0 +1,36 @@
+Le NIST (National Institute of Standards and Technology) propose un Framework de gestion des risques (Risk Management Framework - RMF) pour guider les organisations dans l’identification, l’évaluation, la gestion et la surveillance des risques liés à la cybersécurité et à la sécurité de l'information. Il est principalement utilisé par les organisations américaines, notamment dans les secteurs publics et critiques, mais il est aussi adopté dans d'autres pays pour sa robustesse et son approche structurée.
+
+Points clés du NIST Risk Management Framework (RMF) :
+Objectif du RMF : Le cadre vise à aider les organisations à protéger leurs systèmes d'information contre les menaces en gérant de manière proactive les risques tout au long du cycle de vie des systèmes. Il met un fort accent sur la sécurité dès la conception des systèmes et lors de leur mise en œuvre.
+
+Les 6 étapes principales du RMF :
+
+Catégoriser les systèmes d’information : Identifier les informations et systèmes critiques et les classer en fonction de leur impact potentiel sur la confidentialité, l'intégrité et la disponibilité.
+Sélectionner des contrôles de sécurité : Choisir des mesures de sécurité adaptées pour protéger les systèmes d’information. Le NIST propose le NIST SP 800-53, un catalogue exhaustif de contrôles de sécurité techniques, administratifs et physiques.
+Implémenter les contrôles de sécurité : Mettre en œuvre les contrôles sélectionnés et s'assurer de leur efficacité.
+Évaluer les contrôles de sécurité : Tester et évaluer la mise en place des contrôles afin de vérifier s'ils fonctionnent comme prévu et offrent la protection nécessaire.
+Autoriser le système : Sur la base des résultats de l’évaluation, décider si le système est suffisamment sécurisé pour être mis en production.
+Surveiller en continu : Effectuer un suivi continu pour s'assurer que les contrôles restent efficaces face aux menaces changeantes et que de nouveaux risques émergents sont gérés.
+Relation avec d'autres cadres NIST : Le RMF est souvent utilisé en complément du NIST Cybersecurity Framework (CSF), qui fournit des lignes directrices de haut niveau pour la gestion des risques de cybersécurité, et du NIST SP 800-37, qui détaille l’approche de gestion des risques pour les systèmes d’information.
+
+Approche basée sur les risques : Le RMF adopte une approche axée sur les risques, ce qui signifie que les organisations doivent prioriser les mesures de sécurité en fonction de l'impact potentiel des menaces et des vulnérabilités sur leurs systèmes critiques.
+
+Conformité : De nombreuses réglementations, en particulier pour les agences fédérales aux États-Unis, exigent l'utilisation du RMF. Par exemple, la loi FISMA (Federal Information Security Management Act) impose aux agences de suivre les directives du RMF pour protéger les systèmes fédéraux.
+
+NIST SP 800-53 : Le RMF est souvent associé au guide NIST Special Publication 800-53, qui fournit une liste complète de contrôles de sécurité et de confidentialité à appliquer aux systèmes d’information. Ces contrôles couvrent des aspects tels que la gestion des accès, la surveillance, la réponse aux incidents, la gestion des vulnérabilités, et plus encore.
+
+Comparaison avec ISO 27005 :
+Approche similaire : Comme ISO 27005, le RMF du NIST met l'accent sur une approche continue de la gestion des risques tout au long du cycle de vie du système d'information.
+Différence principale : ISO 27005 est plus flexible en termes de méthodologie et peut être adopté par différentes organisations, tandis que le RMF est plus prescriptif et est principalement orienté vers les institutions publiques ou critiques aux États-Unis.
+Conclusion :
+Le cadre de gestion des risques du NIST est un outil puissant et bien structuré qui permet aux organisations de gérer les risques liés à la sécurité de l'information de manière continue et proactive.
+
+
+
+
+
+
+
+
+
+

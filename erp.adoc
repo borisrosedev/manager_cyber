@@ -1,0 +1,334 @@
+= Les ERP
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+Les ERP (Enterprise Resource Planning) ou PGI en français (Progiciel de Gestion Intégré) sont des logiciels ...
+
+=== ...
+
+permettant de gérer l’ensemble des processus d’une entreprise en intégrant différents départements et fonctions dans un système unifié. 
+
+=== ...
+
+Un ERP regroupe des modules interconnectés qui couvrent des domaines variés tels que:
+[%step]
+* la comptabilité, 
+* les ressources humaines, 
+* les achats, 
+
+=== ...
+
+[%step]
+* les ventes, 
+* la gestion de la production, 
+* la logistique,
+* etc.
+
+
+== Objectif d'un ERP
+
+L'objectif principal d'un ERP est de centraliser les données et de simplifier les processus internes de l'entreprise. 
+
+=== ...
+
+Il permet une meilleure coordination entre les différentes divisions de l’entreprise, évitant la redondance de données et facilitant la prise de décision en fournissant des informations en temps réel.
+
+=== Fonctionnalités clés d'un ERP
+
+Un ERP se compose généralement de plusieurs **modules fonctionnels**, chacun dédié à une partie spécifique des opérations de l’entreprise. 
+
+== Modules typiques :
+
+
+=== Finance et comptabilité :
+
+Gestion de:
+[%step]
+* la comptabilité générale, 
+* des comptes clients et fournisseurs, 
+* des immobilisations, 
+* des rapports financiers
+* de la conformité réglementaire.
+
+
+=== Gestion des ressources humaines (RH) :
+
+Gestion :
+[%step]
+* salaires, 
+* des congés, 
+*des avantages sociaux, 
+
+=== ...
+
+[%step]
+* du recrutement, 
+* de la gestion des talents.
+
+=== Gestion des achats et des approvisionnements :
+
+Gestion: 
+[%step]
+* des fournisseurs, 
+* des stocks 
+* des ventes 
+* des relations clients 
+* des devis
+* des contrats
+
+
+=== ...
+
+Contrôle:
+[%step]
+* des niveaux de réapprovisionnement.
+
+=== ...
+
+Traitement des commandes
+
+=== ...
+
+Suivi des clients
+
+
+=== Gestion de la production :
+
+Planification:
+[%step]
+* de la production, 
+
+=== ...
+
+Gestion:
+[%step]
+* des ordres de fabrication, 
+
+=== ...
+
+Suivi:
+[%step]
+* des stocks de matières premières 
+* des produits finis.
+
+
+=== Gestion des stocks et de la logistique :
+
+* Suivi des stocks, 
+* Gestion des entrepôts, 
+* Gestion des expéditions,
+* Gestion des retours.
+
+=== Gestion de la chaîne d'approvisionnement (Supply Chain) :
+
+* Suivi des flux de produits, 
+* Gestion des relations avec les fournisseurs, 
+* Optimisation des processus de livraison.
+
+
+=== Gestion de la relation client (CRM) :
+
+* Gestion des interactions avec les clients, 
+* Suivi des prospects,
+* Gestion des campagnes marketing.
+
+
+== Outils ERP populaires
+
+
+Il existe de nombreux outils ERP sur le marché, chacun adapté à différents types d'entreprises (PME, grandes entreprises) ...
+
+=== ...
+
+et industries (manufacturière, distribution, services).
+
+
+== SAP ERP :
+
+SAP est l'un des leaders mondiaux des logiciels ERP. 
+
+=== ...
+
+Il offre des solutions complètes pour les grandes entreprises couvrant tous les aspects de la gestion des affaires, ...
+
+=== ...
+
+avec une forte capacité de personnalisation et d'intégration.
+
+
+== Oracle ERP Cloud :
+
+Oracle ERP Cloud est une solution cloud qui propose des modules de gestion financière, RH, gestion des projets, et bien plus encore, ...
+
+
+=== ...
+
+
+avec une orientation vers les grandes entreprises multinationales.
+
+== Microsoft Dynamics 365 :
+
+Microsoft Dynamics 365 est une solution cloud ERP qui combine des fonctionnalités CRM et ERP ...
+
+=== ...
+
+pour offrir une gestion intégrée des finances, des ventes, du service client et des opérations.
+
+== Odoo :
+
+Odoo est un ERP open-source qui propose des modules très flexibles, adaptés aux petites et moyennes entreprises (PME). 
+
+Il couvre une large gamme de fonctionnalités et permet une personnalisation rapide.
+
+
+== Infor ERP :
+
+Infor propose des ERP spécialisés pour des secteurs industriels tels que la production, la distribution, et la gestion des services. 
+
+=== ...
+
+Infor met un accent particulier sur l’analyse des données et les fonctionnalités cloud.
+
+== Sage X3 :
+
+Sage X3 est un ERP principalement destiné aux PME, offrant des solutions pour:
+[%step]
+* la finance, 
+* la gestion des stocks, 
+* la production
+* la gestion des ressources humaines.
+
+== NetSuite (par Oracle) :
+
+NetSuite est un ERP cloud destiné aux petites et moyennes entreprises, qui propose des fonctionnalités de gestion financière, de CRM, de gestion de stocks, et de commerce électronique.
+
+== Epicor :
+
+Epicor est un ERP destiné aux industries manufacturières, de distribution, et de vente au détail. 
+
+=== ...
+
+Il propose des fonctionnalités puissantes pour la gestion de la production et de la chaîne d'approvisionnement.
+
+
+== Avantages d'un ERP
+
+=== Centralisation des données :
+
+Un ERP regroupe toutes les données importantes de l’entreprise dans un système unique, ce qui élimine les doublons et permet une meilleure cohérence des informations entre les services.
+
+=== Efficacité opérationnelle :
+
+En automatisant de nombreux processus (comme la comptabilité, les stocks, ou les achats), ...
+
+=== ...
+
+un ERP permet d'augmenter l'efficacité opérationnelle en réduisant le temps consacré aux tâches manuelles et répétitives.
+
+=== Prise de décision améliorée :
+
+L'ERP fournit des informations en temps réel sur les performances de l'entreprise, ...
+
+=== ...
+
+permettant une prise de décision plus rapide et plus éclairée.
+
+=== Réduction des coûts :
+
+En optimisant les processus, l'ERP réduit les coûts opérationnels, notamment en matière de gestion des stocks, d'achats et de production.
+
+=== Conformité et traçabilité :
+
+Les ERP intègrent des fonctionnalités de gestion de la conformité qui aident les entreprises ...
+
+
+=== ...
+
+à suivre les règles légales et réglementaires en matière de comptabilité, de fiscalité ou de protection des données.
+
+=== Meilleure coordination :
+
+En intégrant tous les services dans un seul système, l'ERP favorise une meilleure collaboration entre les différents départements, ...
+
+=== ...
+
+
+notamment en assurant un flux de communication continu et une visibilité commune sur les projets.
+
+== Inconvénients potentiels d'un ERP
+
+=== Coût élevé :
+
+Les ERP, surtout pour les grandes entreprises, peuvent être coûteux à implémenter, notamment ...
+
+=== ...
+
+en raison des frais de licence, de formation et de maintenance.
+
+=== Complexité d'implémentation :
+
+L’implémentation d’un ERP est souvent complexe et peut prendre du temps, ...
+
+
+=== ...
+
+
+surtout dans les grandes organisations avec des processus diversifiés et des systèmes existants à intégrer.
+
+=== Résistance au changement :
+
+Les employés peuvent résister à l’introduction d’un ERP en raison des changements dans leurs habitudes de travail, ...
+
+
+=== ...
+
+
+nécessitant des efforts supplémentaires en formation et accompagnement du changement.
+
+=== Personnalisation coûteuse :
+
+Les entreprises ont souvent besoin de personnaliser leur ERP pour répondre à des besoins spécifiques, ...
+
+=== ...
+
+
+ce qui peut être coûteux en termes de temps et de ressources.
+
+=== ERP en mode SaaS (Cloud ERP)
+
+De plus en plus d'entreprises optent pour des ERP en mode SaaS (Software-as-a-Service), c’est-à-dire des ERP basés sur le cloud. 
+
+=== ...
+
+Cela présente plusieurs avantages :
+
+=== Accès en tout lieu : 
+
+Le cloud permet un accès aux données et aux processus de l'ERP depuis n'importe où, ce qui est particulièrement utile pour ...
+
+=== ...
+
+
+les entreprises avec plusieurs sites ou pour le télétravail.
+
+=== Coûts initiaux réduits : 
+
+Contrairement aux ERP sur site qui nécessitent des investissements en infrastructure, ...
+
+=== ...
+
+les ERP cloud sont souvent disponibles sous forme d’abonnement, ce qui permet de répartir les coûts.
+
+=== Mises à jour automatiques : 
+
+Les solutions SaaS sont mises à jour automatiquement par le fournisseur, réduisant les efforts de maintenance pour l'entreprise.
+
+
+
+
+
+
+

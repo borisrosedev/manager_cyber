@@ -1,0 +1,26 @@
+ISO/IEC 27005 est une norme internationale qui fournit des lignes directrices pour la gestion des risques liés à la sécurité de l'information, en complément de la norme ISO/IEC 27001, qui définit un cadre pour les systèmes de gestion de la sécurité de l'information (SGSI).
+
+Points clés de l'ISO 27005 :
+Objectif : La norme vise à fournir une approche structurée pour identifier, évaluer et traiter les risques en matière de sécurité de l'information afin de protéger les actifs informationnels d'une organisation.
+
+Processus de gestion des risques :
+
+Identification des risques : Identifier les actifs informationnels, les menaces, les vulnérabilités et les impacts potentiels sur ces actifs.
+Évaluation des risques : Estimer la probabilité que ces menaces exploitent les vulnérabilités identifiées et évaluer l'impact potentiel sur l'organisation.
+Traitement des risques : Mettre en place des mesures de contrôle pour réduire, transférer, accepter ou éviter les risques en fonction de leur criticité.
+Acceptation des risques : Décider quels risques sont acceptables après avoir évalué les mesures de contrôle et l'impact résiduel.
+Surveillance et revue : Continuer à surveiller les risques et ajuster les stratégies de traitement des risques au fur et à mesure de l'évolution des menaces et des systèmes.
+L'intégration avec ISO/IEC 27001 : ISO 27005 est conçu pour fonctionner en synergie avec ISO/IEC 27001, apportant un support méthodologique à la gestion des risques. Alors que la 27001 exige l'adoption d'une approche de gestion des risques, 27005 explique comment l'implémenter en détail.
+
+Approches de gestion des risques : La norme ne prescrit pas de méthodologie spécifique, permettant aux organisations de choisir des méthodes adaptées à leur contexte (par exemple, ISO 31000, EBIOS, OCTAVE, ou encore l'analyse SWOT appliquée aux risques de sécurité).
+
+En somme, ISO 27005 aide à bâtir une démarche de gestion des risques cohérente avec les autres normes de la série 27000 pour assurer la protection continue de l'information et des systèmes critiques.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,96 @@
+= La gouvernance IT et la gestion IT 
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+La gouvernance IT et la gestion IT sont deux concepts distincts mais complémentaires dans la gestion des technologies de l'information. 
+
+== Gouvernance IT
+
+=== Vision stratégique : 
+
+La gouvernance IT se concentre sur la prise de décisions stratégiques pour aligner les technologies de l’information avec les objectifs globaux de l’entreprise.
+
+
+=== Cadre de contrôle : 
+
+Elle définit:
+[%step]
+* les politiques, 
+* les processus 
+* les structures 
+
+=== ...
+
+pour s'assurer que l'IT génère de la valeur tout en minimisant les risques. 
+
+=== ...
+
+Elle concerne souvent:
+[%step]
+* la conformité avec les normes, 
+* les audits,
+* la gestion des risques.
+
+
+=== Implication des parties prenantes : 
+
+La gouvernance IT implique souvent **les dirigeants** et les **parties prenantes de haut niveau** dans l'organisation pour s'assurer que les décisions IT soutiennent les objectifs stratégiques.
+
+
+== Exemples de frameworks : 
+
+* COBIT (Control Objectives for Information and Related Technologies), 
+* ITIL (pour la gestion des services) 
+* ISO 38500 ...
+
+=== ...
+
+sont des exemples de cadres qui aident à établir une gouvernance IT.
+
+== Gestion IT
+
+=== Opérations quotidiennes : 
+
+La gestion IT est plus opérationnelle et concerne l’exécution et la gestion des ressources technologiques de l’entreprise, y compris les systèmes, réseaux, matériel et logiciels.
+
+=== Efficacité opérationnelle : 
+
+Elle se concentre sur la maintenance, la gestion des services, et la performance de l'infrastructure IT au quotidien. 
+
+=== ...
+
+Elle est orientée vers la gestion des incidents, la continuité des services et la résolution des problèmes.
+
+
+=== Responsabilités techniques : 
+
+Elle est souvent gérée par des responsables IT, des administrateurs systèmes, des gestionnaires d'infrastructure et des équipes opérationnelles.
+
+=== Outils utilisés : 
+
+Des outils comme ITSM (gestion des services IT), les logiciels de gestion des configurations, et la gestion des infrastructures IT sont couramment utilisés dans la gestion IT.
+
+== Comparaison clé
+
+=== Perspective : 
+
+La gouvernance IT est stratégique et vise à aligner l’IT avec les objectifs d’entreprise, tandis que la gestion IT est opérationnelle et concerne l’efficacité des opérations IT au jour le jour.
+
+=== Horizon temporel : 
+
+La gouvernance a une vision à long terme, tandis que la gestion IT est focalisée sur le court terme et les opérations immédiates.
+
+=== Décideurs : 
+
+La gouvernance implique souvent des cadres supérieurs et des directeurs, tandis que la gestion IT est supervisée par des équipes techniques et des gestionnaires IT.
+
+
+
+
+
+
+
+

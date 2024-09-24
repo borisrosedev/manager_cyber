@@ -1,0 +1,201 @@
+= ITIL 
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+ITIL (Information Technology Infrastructure Library) est un ensemble de meilleures pratiques pour la gestion des services IT. 
+
+
+=== ...
+
+Il fournit un cadre pour gérer et livrer des services IT de haute qualité qui répondent aux besoins de l'entreprise tout en optimisant les processus et les ressources IT. 
+
+=== ...
+
+Développé initialement par le gouvernement britannique dans les années 1980, ITIL est devenu une référence mondiale pour la gestion des services IT.
+
+== Objectifs d'ITIL
+
+ITIL vise à améliorer l'efficacité et la qualité des services IT en se concentrant sur trois aspects principaux :
+
+=== Alignement de l'IT avec les objectifs de l'entreprise : 
+
+ITIL assure que les services IT:
+[%step]
+* soutiennent la stratégie commerciale
+* répondent aux besoins de l’entreprise.
+
+=== Optimisation des processus IT : 
+
+ITIL aide à standardiser les processus pour garantir des services IT plus fiables, tout en optimisant les ressources et en réduisant les coûts.
+
+=== Amélioration continue des services : 
+
+ITIL introduit une approche systématique pour surveiller, évaluer et améliorer les services IT, en vue d'une amélioration continue.
+
+
+== Structure du cadre ITIL
+
+Le cadre ITIL est organisé en cinq phases du cycle de vie des services, chacune avec des processus spécifiques. 
+
+=== ...
+
+Ces phases sont essentielles pour une gestion efficace des services IT :
+
+== Stratégie des services (Service Strategy) :
+
+=== Objectif : Définir la stratégie IT en fonction des besoins et des objectifs de l'entreprise.
+
+== Principaux processus :
+
+=== Gestion de la demande : 
+
+Identifier et prévoir la demande de services IT.
+
+=== Gestion du portefeuille de services : 
+
+Gérer l'ensemble des services IT offerts ou en développement.
+
+=== Gestion financière des services IT : 
+
+Gérer le coût des services IT et assurer leur rentabilité.
+
+== Conception des services (Service Design) :
+
+=== Objectif : 
+
+Concevoir des services IT qui répondent aux besoins actuels et futurs de l'entreprise.
+
+== Principaux processus :
+
+=== Gestion des niveaux de service (SLA) : 
+
+Définir et garantir les niveaux de service convenus avec les utilisateurs.
+
+=== Gestion de la capacité : 
+
+Assurer que les services IT disposent des ressources suffisantes pour répondre aux demandes.
+
+=== Gestion de la disponibilité : 
+
+Garantir que les services IT sont disponibles en fonction des exigences de l'entreprise.
+
+=== Gestion de la continuité des services IT : 
+
+Planifier la reprise après sinistre pour assurer la continuité des services en cas de panne.
+
+== Transition des services (Service Transition) :
+
+=== Objectif : 
+
+Mettre en œuvre et déployer les services IT conçus en minimisant les risques.
+
+== Principaux processus :
+
+=== Gestion des changements : 
+
+Contrôler les modifications apportées aux services IT pour minimiser les interruptions.
+
+=== Gestion des actifs et des configurations : 
+
+Suivre les actifs IT et gérer les configurations pour garantir l'intégrité du système.
+
+=== Gestion des versions et des déploiements : 
+
+Planifier et contrôler le déploiement des nouvelles versions des services IT.
+
+== Exploitation des services (Service Operation) :
+
+=== Objectif : 
+
+Assurer la gestion quotidienne des services IT pour garantir leur bon fonctionnement et leur disponibilité.
+
+== Principaux processus :
+
+=== Gestion des incidents : 
+
+Résoudre rapidement les incidents pour rétablir le service.
+
+=== Gestion des problèmes : 
+
+Identifier la cause racine des incidents et mettre en œuvre des correctifs définitifs.
+
+=== Gestion des accès : 
+
+Contrôler l'accès des utilisateurs aux services IT.
+
+=== Gestion des événements : 
+
+Surveiller les événements du système pour anticiper les problèmes potentiels.
+
+
+
+// PHASE 
+== Amélioration continue des services (Continual Service Improvement) :
+
+=== Objectif : 
+
+Évaluer constamment les services IT pour les améliorer de manière continue.
+
+== Principaux processus :
+
+=== Mesure et évaluation des performances : 
+
+Suivre les indicateurs clés de performance (KPI) pour évaluer l'efficacité des services.
+
+
+=== Analyse des données : 
+
+Utiliser les retours d’expérience et les données pour identifier les opportunités d’amélioration.
+
+
+
+// FIN DES PHASES
+
+== Avantages d'ITIL
+
+=== Alignement de l’IT avec les besoins de l’entreprise : 
+
+ITIL permet aux services IT de répondre directement aux priorités stratégiques et aux besoins des utilisateurs.
+
+=== Efficacité et réduction des coûts : 
+
+En standardisant les processus et en optimisant l'utilisation des ressources IT, ITIL aide à réduire les coûts opérationnels tout en maintenant la qualité des services.
+
+=== Amélioration de la qualité de service : 
+
+Grâce à des processus rigoureux de gestion des incidents, des changements et des configurations, ITIL améliore la disponibilité et la fiabilité des services IT.
+
+=== Meilleure gestion des risques : 
+
+ITIL encourage une gestion proactive des risques en identifiant les problèmes potentiels avant qu’ils ne deviennent des incidents majeurs.
+
+=== Amélioration continue : 
+
+Avec l'approche d'amélioration continue des services (CSI), les entreprises sont encouragées à évaluer régulièrement leurs processus et services pour identifier des domaines d'amélioration.
+
+== Rôles clés dans ITIL
+
+=== Propriétaire du service (Service Owner) : 
+
+Responsable de la gestion d’un service spécifique tout au long de son cycle de vie.
+
+=== Gestionnaire des incidents (Incident Manager) : 
+
+Responsable de la gestion et de la résolution rapide des incidents pour minimiser leur impact.
+
+=== Gestionnaire des problèmes (Problem Manager) : 
+
+Responsable de l'analyse des causes des incidents et de la mise en œuvre des solutions définitives.
+
+=== Gestionnaire des changements (Change Manager) : 
+
+Responsable de l'approbation et de la gestion des changements dans l'environnement IT pour limiter les interruptions.
+
+
+
+
+

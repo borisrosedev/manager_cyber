@@ -1,0 +1,253 @@
+= La régulation
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+En matière de sécurité et de gouvernance IT, plusieurs régulations et standards ont été établis pour garantir la protection des données, la conformité des entreprises, et la gestion des risques. 
+
+== RGPD (Règlement Général sur la Protection des Données)
+
+
+=== Contexte:
+
+Adopté par l'Union européenne en 2018, le RGPD impose des règles strictes concernant:
+[%step]
+* la collecte, 
+* le traitement,
+* la protection des données personnelles des résidents européens.
+
+
+=== Objectif : 
+
+Garantir la vie privée et la protection des données à caractère personnel, ainsi que responsabiliser les organisations qui traitent ces données.
+
+=== Exigences :
+
+Obtenir le consentement explicite des utilisateurs pour collecter et traiter leurs données.
+
+=== ...
+
+Informer les individus de l’utilisation de leurs données et leur donner le droit d’y accéder ou de les supprimer (droit à l’oubli).
+
+=== Signaler les violations de données dans les 72 heures.
+
+Nommer un délégué à la protection des données (DPO) dans certaines organisations.
+
+== SOX (Sarbanes-Oxley Act)
+
+=== Contexte : 
+
+Loi américaine de 2002 destinée à renforcer la transparence financière des entreprises après plusieurs scandales majeurs comme Enron.
+
+=== Objectif : 
+
+Renforcer la responsabilité des entreprises en matière de rapports financiers et de conformité.
+
+=== Exigences :
+
+Assurer l'intégrité des systèmes de contrôle interne, y compris les systèmes informatiques.
+
+=== ...
+
+Imposer des audits rigoureux et des rapports financiers transparents.
+
+=== ...
+
+Les entreprises doivent conserver des documents financiers, incluant des preuves de la conformité IT.
+
+
+== ISO/IEC 27001
+
+=== Contexte : 
+
+Standard international pour la gestion de la sécurité de l'information, publié par l'Organisation internationale de normalisation (ISO) et la Commission électrotechnique internationale (IEC).
+
+
+=== Objectif : 
+
+Fournir un cadre pour établir, implémenter, maintenir et améliorer un système de gestion de la sécurité de l'information (SGSI).
+
+=== Exigences :
+
+Mise en place de contrôles pour la gestion des risques liés à la sécurité des informations.
+
+=== ...
+
+Gestion des accès, cryptage des données, et audits réguliers de sécurité.
+
+=== ...
+
+Évaluation et amélioration continue des politiques de sécurité.
+
+
+== HIPAA (Health Insurance Portability and Accountability Act)
+
+=== Contexte : 
+
+Loi américaine de 1996 qui régule la protection des informations médicales sensibles.
+
+=== Objectif : 
+
+Garantir la confidentialité et la sécurité des données de santé des patients.
+
+=== Exigences :
+
+* Protéger les informations de santé personnellement identifiables (PHI).
+
+=== ... 
+
+* Implémenter des mesures de sécurité:
+[%step]
+* physiques, 
+* administratives
+* techniques.
+
+=== ...
+
+Signaler les violations de données de santé aux autorités concernées et aux individus affectés.
+
+== PCI DSS (Payment Card Industry Data Security Standard)
+
+=== Contexte : 
+
+Ensemble de normes de sécurité applicables à toutes les entreprises qui traitent des informations de cartes de paiement.
+
+=== Objectif : 
+
+Protéger les informations de carte bancaire contre les fraudes et les violations de données.
+
+=== Exigences :
+
+Utiliser des pare-feu et des systèmes de protection contre les intrusions.
+
+=== ...
+
+Chiffrer les données sensibles de paiement.
+
+=== ...
+
+Effectuer des tests de sécurité réguliers et des audits.
+
+=== ...
+
+Restreindre l'accès aux informations des titulaires de carte selon les principes du moindre privilège.
+
+== NIST (National Institute of Standards and Technology) Cybersecurity Framework
+
+=== Contexte : 
+
+Le NIST est une agence américaine qui a publié un cadre de cybersécurité pour aider les organisations à gérer et réduire les risques de cybersécurité.
+
+=== Objectif : 
+
+Fournir un ensemble de normes et de meilleures pratiques pour protéger les infrastructures critiques contre les cybermenaces.
+
+=== Exigences :
+
+Identification des risques de cybersécurité.
+
+=== ...
+
+Protection des systèmes et données sensibles.
+
+=== ...
+
+Détection des incidents de sécurité.
+
+=== ...
+
+Réponse et récupération après des incidents de cybersécurité.
+
+
+== ITIL (Information Technology Infrastructure Library)
+
+=== Contexte : 
+
+Ensemble de bonnes pratiques pour la gestion des services IT.
+
+=== Objectif : 
+
+Assurer une gestion efficace des services IT pour soutenir les besoins business.
+
+=== Exigences :
+
+Fournir un cadre de gestion des services pour s’assurer que l’IT apporte de la valeur à l’entreprise.
+
+=== ...
+
+Gérer les incidents, les problèmes et les changements en respectant les procédures.
+
+=== ...
+
+Optimiser la qualité des services fournis aux utilisateurs.
+
+== ISO 38500
+
+=== Contexte : 
+
+Norme internationale pour la gouvernance des systèmes d'information des entreprises.
+
+=== Objectif : 
+
+Fournir des principes directeurs pour la gouvernance IT afin d'aligner la stratégie IT avec la stratégie de l'entreprise.
+
+=== Exigences :
+
+Structurer la prise de décisions IT.
+
+=== ...
+
+S'assurer que les investissements IT apportent de la valeur.
+
+=== ...
+
+Gérer les risques associés à l’IT et s'assurer que les ressources sont utilisées de manière responsable.
+
+
+== CMMC (Cybersecurity Maturity Model Certification)
+
+=== Contexte : 
+
+Cadre de conformité de sécurité créé par le Département de la Défense des États-Unis pour les entreprises qui travaillent avec des données sensibles du gouvernement.
+
+=== Objectif : 
+
+Garantir que les sous-traitants et fournisseurs du gouvernement américain disposent de mesures de cybersécurité adaptées à la protection des informations sensibles.
+
+=== Exigences :
+
+Implémentation de contrôles de sécurité basés sur cinq niveaux de maturité.
+
+=== ...
+
+Exigences de conformité selon la criticité des informations traitées (ex. CUI – Controlled Unclassified Information).
+
+
+== COSO (Committee of Sponsoring Organizations of the Treadway Commission)
+
+=== Contexte : 
+
+Un cadre pour la gestion des risques d'entreprise, y compris les risques IT.
+
+=== Objectif : 
+
+Fournir un modèle pour évaluer et améliorer les contrôles internes et la gestion des risques dans les organisations.
+
+=== Exigences :
+
+Évaluation continue des risques internes et externes.
+
+=== ...
+
+Mise en place de contrôles appropriés pour gérer les risques IT.
+
+=== ...
+
+Intégration des processus de gestion des risques dans la stratégie d'entreprise.
+
+
+
+

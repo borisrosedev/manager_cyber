@@ -1,0 +1,193 @@
+= L'ISO/IEC 38500
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+L'ISO/IEC 38500 est une norme internationale de gouvernance des technologies de l'information (IT) publiée par:
+[%step]
+* l'Organisation internationale de normalisation (ISO)
+* la Commission électrotechnique internationale (IEC). 
+
+=== ...
+
+Elle fournit des principes directeurs pour la gouvernance des systèmes d'information et des technologies associées, ...
+
+=== ...
+
+en aidant les entreprises à s'assurer que leurs systèmes IT sont bien gérés et alignés sur les objectifs de l'organisation.
+
+== Objectif de l'ISO 38500
+
+L'ISO 38500 a pour but de fournir un cadre de gouvernance IT qui :
+
+=== Aligne les objectifs IT avec ceux de l'entreprise : 
+
+Assurer que l’IT soutient les objectifs globaux de l'organisation.
+
+=== Optimise la valeur apportée par l'IT : 
+
+Garantir que les investissements dans l'IT sont justifiés et qu'ils apportent une réelle valeur ajoutée à l'organisation.
+
+=== Gère les risques associés à l'IT : 
+
+Évaluer et minimiser les risques liés aux systèmes et technologies de l'information.
+
+=== S’assure de l’utilisation responsable des ressources IT : 
+
+Gérer les ressources IT de manière efficace et responsable pour éviter les gaspillages et les abus.
+
+=== Encourage la transparence dans la prise de décisions IT : 
+
+Mettre en place des processus décisionnels clairs et transparents pour tout ce qui concerne l’IT.
+
+== Principes de gouvernance IT selon l'ISO 38500
+
+L'ISO 38500 repose sur six principes de gouvernance IT, qui doivent être respectés par les organisations pour assurer une gestion efficace de leurs systèmes IT :
+
+=== Responsabilité (Responsibility) :
+
+Les rôles et responsabilités en matière de gouvernance IT doivent être clairement définis. 
+
+=== ...
+
+Les dirigeants et les employés doivent savoir qui est responsable de quoi dans la gestion des systèmes IT.
+
+== Stratégie (Strategy) :
+
+Les systèmes IT doivent être utilisés de manière à soutenir les 
+objectifs stratégiques de l'entreprise. 
+
+=== ...
+
+L'IT doit être alignée sur la vision et les buts globaux de l'organisation.
+
+== Acquisition (Acquisition) :
+
+Les décisions d'acquisition de systèmes IT doivent être basées sur des analyses de rentabilité claires et vérifiables. 
+
+=== ...
+
+Il est important de s'assurer que les investissements en IT apportent une valeur tangible et qu'ils sont réalisés de manière économique.
+
+=== Performance (Performance) :
+
+Les services IT doivent être gérés de manière à répondre aux besoins actuels et futurs de l'entreprise. 
+
+=== ...
+
+La performance des systèmes IT doit être surveillée et optimisée pour maximiser leur efficacité.
+
+
+== Conformité (Conformance) :
+
+Les systèmes et processus IT doivent être conformes aux obligations légales et réglementaires, ...
+
+=== ..
+
+
+ainsi qu’aux politiques internes de l'organisation. 
+
+=== ...
+
+Cela inclut la conformité en matière de protection des données, de sécurité, et de gouvernance.
+
+== Comportement humain (Human Behaviour) :
+
+Les processus de gouvernance IT doivent prendre en compte le comportement humain, en particulier l'impact des décisions IT sur les employés et les utilisateurs. 
+
+=== ...
+
+Il faut aussi veiller à ce que les politiques IT encouragent une utilisation responsable des ressources IT par les individus.
+
+== Structure de la norme ISO 38500
+
+L'ISO 38500 est conçue pour être applicable à toutes les entreprises, quelle que soit leur taille ou leur secteur d'activité. 
+
+
+=== ...
+
+La norme est divisée en trois parties principales :
+
+
+== Champ d'application :
+
+Cette section décrit l'objectif général de la norme et les types d'organisations qui peuvent l'adopter. 
+
+=== ...
+
+Elle définit aussi ce que signifie "gouvernance IT" dans le contexte de la norme.
+
+== Cadre de gouvernance :
+
+Ce cadre propose une approche structurée pour gérer et superviser les systèmes IT. 
+
+=== ...
+
+Il définit les rôles des dirigeants et des parties prenantes dans le processus de gouvernance.
+
+
+// FIN DES SECTIONS 
+
+== Principes de gouvernance :
+
+La norme explique comment appliquer les six principes de gouvernance (responsabilité, stratégie, acquisition, performance, conformité et comportement humain) dans la gestion des systèmes IT.
+
+=== ...
+
+Rôles et responsabilités dans la gouvernance IT selon l'ISO 38500
+L'ISO 38500 insiste sur l'importance d'une structure claire de gouvernance avec des rôles bien définis. 
+
+
+
+
+== Principaux acteurs et leurs responsabilités :
+
+== Dirigeants et conseil d'administration :
+
+Ils ont la responsabilité ultime de la gouvernance IT. 
+
+=== ...
+
+Ils doivent s'assurer que les décisions IT sont en accord avec la stratégie globale de l'entreprise et que les risques sont gérés efficacement.
+
+
+== Managers IT :
+
+Ils sont chargés de la mise en œuvre des politiques de gouvernance IT, de l'exécution des stratégies définies, et de la gestion quotidienne des ressources IT. 
+
+=== ...
+
+Ils doivent aussi fournir des rapports sur les performances IT aux dirigeants.
+
+== Utilisateurs :
+
+Ils doivent respecter les politiques et les procédures IT établies par l'entreprise, et utiliser les systèmes IT de manière responsable.
+
+
+
+
+// Avantages
+== Avantages de la norme ISO 38500
+
+=== Meilleur alignement IT-business :
+
+L'ISO 38500 garantit que les systèmes IT soutiennent les objectifs stratégiques de l'organisation, ce qui renforce l'alignement entre l'IT et les besoins métier.
+
+=== Meilleure gestion des risques :
+
+En appliquant les principes de gouvernance, l'organisation peut mieux identifier, évaluer, et gérer les risques associés à l'utilisation des systèmes IT.
+
+=== Utilisation efficace des ressources :
+
+La norme encourage une utilisation optimale des ressources IT, en évitant les gaspillages et en optimisant les investissements IT.
+
+=== Conformité accrue :
+
+L'ISO 38500 aide à s'assurer que les systèmes IT respectent les obligations légales et réglementaires, ce qui réduit les risques de non-conformité.
+
+=== Transparence dans la prise de décision :
+
+La norme promeut des processus décisionnels clairs et transparents, permettant une meilleure compréhension et implication des parties prenantes.
+

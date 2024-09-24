@@ -1,0 +1,141 @@
+= Les KPI (Key Performance Indicators) 
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+Les KPI (Key Performance Indicators) sont des indicateurs clés qui permettent de mesurer l'efficacité et la performance des processus de gouvernance IT. 
+
+=== ...
+
+Ils aident à évaluer si les objectifs de la gouvernance sont atteints, notamment en matière de gestion des risques, de création de valeur, et d'utilisation efficace des ressources IT. 
+
+
+== Alignement stratégique
+
+=== Taux de projets IT alignés sur les priorités de l’entreprise : 
+
+Mesure le pourcentage des projets IT qui soutiennent directement les objectifs stratégiques de l'organisation.
+
+=== Degré de satisfaction des parties prenantes : 
+
+Évalue la satisfaction des directions métier vis-à-vis des solutions IT fournies.
+
+
+== Création de valeur
+
+=== ROI (Retour sur Investissement) des initiatives IT : 
+
+Mesure les gains financiers ou d’efficacité obtenus par rapport aux coûts des projets IT.
+
+=== Taux d'adoption des nouvelles technologies : 
+
+Indique à quel point les employés ou les clients utilisent les nouvelles solutions ou systèmes IT mis en place.
+
+=== Réduction des coûts IT : 
+
+Suivi des réductions de coûts réalisées grâce aux initiatives IT (virtualisation, optimisation des processus, etc.).
+
+
+== Gestion des risques
+
+=== Nombre d’incidents de sécurité IT : 
+
+Compte les incidents de sécurité (intrusions, fuites de données, etc.) sur une période donnée.
+
+=== Taux de conformité réglementaire : 
+
+Mesure le pourcentage de conformité aux réglementations et normes (ex. : RGPD, ISO 27001) à travers les audits et contrôles.
+
+=== Temps moyen de résolution des incidents : 
+
+Évalue la rapidité avec laquelle les incidents de sécurité ou systèmes sont résolus.
+
+== Utilisation efficace des ressources
+
+=== Utilisation du budget IT : 
+
+Suivi du pourcentage du budget IT utilisé, comparé aux prévisions ou au budget alloué.
+
+=== Taux d’utilisation des infrastructures IT : 
+
+Mesure l’utilisation des ressources IT (serveurs, stockage, réseaux) par rapport à leur capacité totale.
+
+=== Coût par utilisateur / par application : 
+
+Évalue le coût de l’IT par employé ou par application pour mieux comprendre la rentabilité.
+
+
+== Mesure de la performance
+
+=== Taux de disponibilité des systèmes IT : 
+
+Mesure la disponibilité (uptime) des systèmes et applications critiques pour l'entreprise (souvent exprimé en pourcentage, ex. 99,9 %).
+
+=== MTTR (Mean Time to Repair) : 
+
+Temps moyen nécessaire pour réparer un système défectueux ou résoudre un incident technique.
+
+=== MTBF (Mean Time Between Failures) : 
+
+Temps moyen entre deux pannes d’un système ou d’une infrastructure IT, indicatif de sa fiabilité.
+
+== Conformité aux normes et à la réglementation
+
+=== Taux de réussite des audits IT : 
+
+Mesure le pourcentage d'audits (internes ou externes) réussis sans remarques majeures ou non-conformités.
+
+=== Nombre de violations de conformité :
+
+Suivi du nombre d’incidents où les systèmes ou processus IT ne sont pas conformes aux réglementations ou normes établies.
+
+== Sécurité de l'information
+
+=== Nombre de tentatives de cyberattaques détectées et bloquées : 
+
+Compte les attaques ou tentatives d’intrusions informatiques bloquées par les systèmes de sécurité.
+
+=== Taux de vulnérabilités non corrigées : 
+
+Mesure le pourcentage de vulnérabilités identifiées mais non corrigées dans un certain délai (par exemple 30 jours).
+
+=== Temps moyen de détection des incidents de sécurité (MTTD) : 
+
+Mesure le délai moyen pour détecter un incident de sécurité après son occurrence.
+
+== Gestion des changements
+
+=== Taux de réussite des changements IT : 
+
+Pourcentage de changements technologiques ou de projets IT mis en œuvre avec succès (sans incident majeur ou échec).
+
+=== Impact des changements IT sur la continuité des services : 
+
+Mesure l’impact des changements sur la continuité des services (nombre d'interruptions, baisse de performance).
+
+== Satisfaction des utilisateurs
+
+=== Taux de satisfaction des utilisateurs finaux : 
+
+Mesure la satisfaction des utilisateurs en termes de services IT fournis (résolution des tickets, support, disponibilité des outils).
+
+=== Taux de résolution des tickets IT au premier contact : 
+
+Indique la proportion de demandes de support résolues dès le premier contact avec le service IT.
+
+=== ...
+
+Ces KPI fournissent des informations essentielles sur l’efficacité de la gouvernance IT, en ...
+
+=== ...
+
+aidant à identifier les domaines à améliorer et en permettant aux dirigeants d’adapter les stratégies en fonction des résultats obtenus.
+
+
+
+
+
+
+

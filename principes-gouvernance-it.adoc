@@ -1,0 +1,124 @@
+= Les principes de base de la gouvernance IT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+Les principes de base de la gouvernance IT (gouvernance des technologies de l'information) visent à aligner les systèmes d'information et les technologies avec ...
+
+=== ...
+
+les objectifs stratégiques de l'entreprise tout en assurant une gestion efficace des risques et une utilisation optimisée des ressources. 
+
+
+
+== Alignement stratégique
+
+=== Objectif : 
+
+L'alignement stratégique vise à s'assurer que les objectifs IT sont en cohérence avec les objectifs de l'entreprise.
+
+=== Actions : 
+
+Les décisions technologiques doivent être prises en fonction des priorités et des besoins de l'organisation, avec une collaboration étroite entre les départements IT et les unités de business.
+
+
+== Création de valeur
+
+=== Objectif : 
+
+L'IT doit contribuer à la création de valeur pour l'entreprise en augmentant l'efficacité, en réduisant les coûts ou en créant de nouvelles opportunités commerciales.
+
+=== Actions : 
+
+Maximiser les bénéfices des investissements IT et évaluer régulièrement la contribution de ces technologies à la croissance et à l'innovation.
+
+
+== Gestion des risques
+
+=== Objectif :
+
+Identifier, évaluer et gérer les risques liés à l'IT.
+
+=== Actions : 
+
+Mettre en place des contrôles et des processus pour atténuer les risques liés aux cybermenaces, aux violations de données, à la non-conformité réglementaire et à la défaillance des systèmes.
+
+
+=== Utilisation efficace des ressources
+
+=== Objectif : 
+
+Optimiser l'utilisation des ressources IT, qu'il s'agisse de budget, de personnel, d'équipements ou de compétences.
+
+=== Actions : 
+
+Gérer les ressources de manière à maximiser leur rentabilité tout en assurant que les besoins actuels et futurs sont couverts de manière durable.
+
+
+== Mesure de la performance
+
+=== Objectif : 
+
+Évaluer la performance de l'IT à travers des indicateurs et des KPI (Key Performance Indicators) pour garantir que les objectifs sont atteints.
+
+=== Actions : 
+
+Mettre en place des systèmes de suivi pour surveiller les progrès des initiatives IT et ajuster les stratégies si nécessaire.
+
+
+== Conformité aux normes et à la réglementation
+
+=== Objectif : 
+
+S'assurer que l'IT respecte toutes les lois, réglementations, normes et directives pertinentes.
+
+=== Actions : 
+
+Surveiller la conformité avec les cadres réglementaires comme le RGPD (Règlement Général sur la Protection des Données), ISO 27001, ou toute autre réglementation sectorielle.
+
+
+== Sécurité de l'information
+
+=== Objectif : 
+
+Assurer que la sécurité de l'information est maintenue à travers des politiques, des procédures et des technologies pour protéger les actifs informationnels de l'entreprise.
+
+=== Actions : 
+
+Mettre en œuvre des politiques de sécurité rigoureuses, comme la gestion des accès, la prévention des intrusions et des fuites de données.
+
+== Partage des responsabilités
+
+=== Objectif : 
+
+Garantir une répartition claire des rôles et des responsabilités dans la gestion de l'IT au sein de l'organisation.
+
+=== Actions : 
+
+Clarifier les rôles des dirigeants, du DSI (Directeur des systèmes d'information), des responsables de la sécurité, des administrateurs IT, etc.
+
+
+== Gestion des changements
+
+=== Objectif :
+
+Établir des processus solides pour gérer les changements technologiques et organisationnels.
+
+=== Actions : 
+
+Mettre en place un processus de gestion des changements IT pour minimiser les interruptions et s'assurer que les nouveaux systèmes ou logiciels sont bien intégrés.
+
+=== ...
+
+Ces principes sont souvent mis en œuvre à travers des cadres de référence comme:
+[%step]
+* COBIT (Control Objectives for Information and Related Technologies), 
+* ITIL (Information Technology Infrastructure Library), 
+* ou ISO 38500
+
+=== ...
+
+qui aident à structurer la gouvernance IT en alignement avec les meilleures pratiques internationales.
