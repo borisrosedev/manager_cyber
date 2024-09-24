@@ -1,0 +1,173 @@
+= Les bonnes pratiques en matière de gouvernance IT pour la cybersécurité
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+La gouvernance IT en matière de cybersécurité est essentielle pour garantir que les pratiques, les politiques et les contrôles liés à la sécurité de l'information sont alignés sur les objectifs stratégiques d'une organisation. 
+
+=== ...
+
+Les bonnes pratiques en matière de gouvernance IT pour la cybersécurité permettent d'améliorer la résilience de l'organisation face aux menaces et de minimiser les risques. 
+
+
+
+== Les principales bonnes pratiques à adopter :
+
+
+=== Alignement stratégique entre l’IT et la cybersécurité
+
+Aligner la stratégie de cybersécurité avec les objectifs commerciaux : 
+
+=== ...
+
+Les politiques de sécurité doivent soutenir les objectifs globaux de l'organisation, en prenant en compte la protection des actifs les plus critiques pour l'entreprise.
+
+
+=== Impliquer les parties prenantes : 
+
+La cybersécurité ne doit pas être uniquement une affaire de l’équipe IT. 
+
+=== ...
+
+Le conseil d'administration, la direction et toutes les parties prenantes doivent être engagés dans la prise de décision relative à la sécurité.
+
+=== Cadres de gouvernance : 
+
+Utiliser des cadres comme COBIT (Control Objectives for Information and Related Technologies) ou ISO/IEC 27001 pour structurer et gouverner les efforts de cybersécurité.
+
+
+== Établissement d’une gouvernance forte
+
+=== ...
+Désignation d’un responsable de la sécurité de l’information (CISO) : 
+
+
+Le CISO doit avoir un accès direct à la direction pour s’assurer que les questions de cybersécurité sont prises en compte dans la stratégie globale.
+
+=== ...
+
+Création d’un comité de sécurité : 
+
+
+Mettre en place un comité de cybersécurité qui se réunit régulièrement pour surveiller les risques, évaluer les politiques et s’assurer que la sécurité est prioritaire.
+
+
+=== ...
+
+Politique de cybersécurité formalisée : 
+
+Développer des politiques et des procédures documentées qui régissent la cybersécurité à tous les niveaux de l'organisation.
+
+
+
+== Gestion des risques en continu
+
+
+=== Évaluation régulière des risques : 
+
+Effectuer des analyses de risques continues pour identifier les menaces potentielles et les vulnérabilités, et ajuster les stratégies en conséquence.
+
+
+=== Classification des actifs : 
+
+Identifier et classer les actifs critiques (données, systèmes, infrastructures) en fonction de leur importance pour l'organisation.
+
+=== Traitement des risques : 
+
+Développer des plans pour traiter les risques identifiés, que ce soit par la réduction, le transfert (par exemple, assurance), l'acceptation ou l’évitement.
+
+
+== Formation et sensibilisation
+
+=== Programmes de sensibilisation à la cybersécurité : 
+
+Former régulièrement les employés sur les bonnes pratiques en matière de sécurité, comme la gestion des mots de passe, la détection des attaques de phishing, et la gestion sécurisée des informations sensibles.
+
+=== Culture de la cybersécurité : 
+
+Promouvoir une culture organisationnelle où la cybersécurité est une priorité à tous les niveaux de l'entreprise.
+
+
+== Surveillance et conformité
+
+=== Conformité réglementaire : 
+
+S'assurer que l'organisation respecte les lois, réglementations et normes en matière de cybersécurité (comme GDPR, HIPAA, NIST, ISO/IEC 27001, etc.).
+
+=== Audits de sécurité réguliers : 
+
+Effectuer des audits internes et externes pour évaluer la conformité aux politiques de sécurité et identifier les lacunes.
+
+=== Indicateurs de performance (KPI) : 
+
+Suivre des indicateurs de performance de la cybersécurité pour évaluer l'efficacité des stratégies et des contrôles en place.
+
+== Gestion des incidents et réponse aux crises
+
+=== Plan de réponse aux incidents : 
+
+Mettre en place un plan documenté pour gérer les incidents de cybersécurité, incluant les responsabilités, les processus de communication, et les étapes pour restaurer les systèmes critiques.
+
+=== Simulations et tests réguliers : 
+
+Organiser des simulations d'attaques et des tests de pénétration pour s'assurer que l’équipe de réponse aux incidents est bien préparée.
+
+=== Surveillance en temps réel : 
+
+Mettre en place des systèmes de détection des intrusions, de surveillance des logs et d'alerte pour identifier les anomalies de sécurité en temps réel.
+
+== Protection des données
+
+=== Cryptage des données : 
+
+Utiliser des technologies de chiffrement pour protéger les données sensibles, que ce soit en transit ou au repos.
+
+=== Contrôle d'accès : 
+
+Mettre en place des politiques de contrôle d’accès strictes, en appliquant les principes de privilèges minimaux et de séparation des tâches pour minimiser les risques internes.
+
+=== Gestion des identités et des accès (IAM) : 
+
+Utiliser des systèmes IAM pour contrôler qui peut accéder aux systèmes critiques et assurer un suivi des autorisations accordées.
+
+== Surveillance et mise à jour des systèmes
+
+=== Patching régulier : 
+
+S’assurer que tous les systèmes et logiciels sont à jour avec les derniers correctifs de sécurité.
+
+=== Gestion des vulnérabilités : 
+
+Utiliser des outils d’évaluation des vulnérabilités et des analyses régulières pour identifier les failles potentielles dans les systèmes.
+
+=== Surveillance proactive : 
+
+Implémenter des solutions de surveillance pour détecter les comportements anormaux ou suspects.
+
+== Gouvernance des fournisseurs et des tiers
+
+=== Évaluation des risques des tiers : 
+
+S’assurer que les fournisseurs et partenaires ont des politiques de cybersécurité conformes aux attentes de l'organisation.
+
+=== Contrats de sécurité : 
+
+Intégrer des clauses de cybersécurité dans les contrats avec les tiers, y compris la gestion des incidents et les obligations en matière de notification.
+
+== Adaptation aux nouvelles technologies et menaces émergentes
+
+=== Innovation sécurisée : 
+
+Adopter les nouvelles technologies (par exemple, l'IA, l'IoT, le cloud) tout en évaluant et en intégrant les meilleures pratiques de cybersécurité pour ces nouvelles infrastructures.
+
+=== Veille continue : 
+
+Se tenir au courant des tendances en matière de cybermenaces pour adapter les stratégies de défense en conséquence.
+
+
+
+
+
+

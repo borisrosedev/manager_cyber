@@ -47,7 +47,9 @@ Ces phases sont essentielles pour une gestion efficace des services IT :
 
 == Stratégie des services (Service Strategy) :
 
-=== Objectif : Définir la stratégie IT en fonction des besoins et des objectifs de l'entreprise.
+=== Objectif : 
+
+Définir la stratégie IT en fonction des besoins et des objectifs de l'entreprise.
 
 == Principaux processus :
 

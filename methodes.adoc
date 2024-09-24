@@ -1,4 +1,7 @@
 = Méthodes et cadres SI
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
 
 
 == Introduction

@@ -1,0 +1,61 @@
+= DMZ
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Définition
+
+une DMZ, ou "zone démilitarisée," est une zone de réseau intermédiaire située entre deux pare-feu. 
+
+== But
+
+La DMZ est conçue pour héberger des services accessibles depuis Internet tout en isolant ces services des réseaux internes plus sensibles de l'organisation. 
+
+
+== Configuration de sécurité
+
+Cette configuration de sécurité est souvent utilisée pour protéger les serveurs exposés, tels que les serveurs Web, les serveurs de messagerie ou les serveurs VPN, des menaces potentielles provenant d'Internet.
+
+
+== Fonctionnement
+
+== Pare-feu externe (Front-end Firewall) 
+
+Le premier pare-feu est positionné entre Internet et la DMZ. Il permet uniquement un trafic réseau spécifique vers la DMZ, en bloquant tout le reste. 
+
+
+=== Autorisation
+
+Il autorise généralement le trafic vers les services publics tels que le serveur Web.
+
+== DMZ 
+
+La DMZ est une zone neutre qui contient les serveurs exposés aux utilisateurs d'Internet. Ces serveurs peuvent répondre aux demandes Internet, par exemple, en fournissant des pages Web ou en acceptant des courriels. 
+
+=== Pas directement connectés
+
+Ils ne sont pas directement connectés au réseau interne de l'organisation, ce qui réduit les risques en cas de violation.
+
+
+== Pare-feu interne (Back-end Firewall) 
+
+Le deuxième pare-feu est positionné entre la DMZ et le réseau interne de l'organisation. Il limite le trafic provenant de la DMZ vers le réseau interne, en n'autorisant que le trafic nécessaire pour que les services fonctionnent correctement. Le trafic indésirable ou malveillant est bloqué.
+
+
+== Objectifs
+
+L'utilisation d'une DMZ avec un double pare-feu permet de séparer les serveurs exposés au trafic Internet du réseau interne, réduisant ainsi les risques de sécurité en cas d'attaque ou d'intrusion. 
+
+
+=== Couche de protection supplémentaire
+
+Cela ajoute une couche de protection supplémentaire en empêchant les attaquants d'accéder directement aux ressources sensibles de l'organisation.
+
+
+=== Important
+
+Il est important de noter que la configuration spécifique de la DMZ et des pare-feu peut varier en fonction des besoins de sécurité de chaque organisation, mais le concept de base reste le même : 
+
+=== ...
+
+isoler les services exposés de l'Internet des réseaux internes à l'aide d'une zone intermédiaire contrôlée.

@@ -1,0 +1,169 @@
+= Le CISO
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+
+Le CISO (Chief Information Security Officer), ou Responsable de la Sécurité des Systèmes d'Information (RSSI), ...
+
+
+=== ...
+
+
+est un poste clé dans les organisations modernes, chargé de superviser la stratégie de sécurité informatique. 
+
+
+=== ...
+
+Le rôle du CISO a évolué pour répondre aux menaces de plus en plus sophistiquées et ...
+
+=== ...
+
+pour s'assurer que la sécurité de l'information est bien alignée avec les objectifs stratégiques de l'entreprise.
+
+
+== Définition de la stratégie de cybersécurité
+
+=== Rôle : 
+
+Le CISO est responsable de la création et de la mise en œuvre de la stratégie de sécurité des systèmes d’information. 
+
+=== ...
+
+Cela comprend la définition des politiques, des standards, des directives et des procédures pour protéger les actifs de l’organisation.
+
+
+=== Objectif : 
+
+S'assurer que la stratégie de sécurité est en adéquation avec les risques spécifiques auxquels l'organisation est confrontée tout en étant alignée avec les objectifs globaux de l'entreprise.
+
+
+== Évaluation et gestion des risques
+
+=== Rôle : 
+
+Le CISO évalue régulièrement les menaces, les vulnérabilités et les risques qui pèsent sur l'organisation. 
+
+=== ...
+
+Cela inclut la mise en place d'évaluations de sécurité, des audits, et des analyses d'impact pour identifier les failles potentielles.
+
+=== Objectif : 
+
+Réduire les risques de cyberattaques, de fuites de données, ou de perturbations en mettant en œuvre des contrôles de sécurité efficaces, tout en optimisant les ressources investies en cybersécurité.
+
+== Mise en conformité réglementaire
+
+=== Rôle : 
+
+Le CISO s’assure que l’organisation respecte les lois, réglementations et standards en matière de sécurité (comme le RGPD, HIPAA, ISO 27001). 
+
+=== ...
+
+Il travaille souvent avec des équipes juridiques et de conformité pour garantir que toutes les exigences réglementaires sont respectées.
+
+=== Objectif : 
+
+Minimiser les risques de non-conformité qui pourraient entraîner des sanctions juridiques ou des pertes de réputation.
+
+== Supervision des opérations de sécurité
+
+=== Rôle : 
+
+Le CISO supervise l’équipe de sécurité informatique responsable de la surveillance, de la détection et de la réponse aux incidents. 
+
+=== ...
+
+Cela inclut la gestion des outils de sécurité tels que les systèmes de détection d'intrusion, les pare-feux, et les antivirus.
+
+
+=== Objectif : 
+
+Garantir que les systèmes et réseaux de l'organisation sont constamment protégés contre les menaces internes et externes.
+
+
+== Réponse aux incidents de sécurité
+
+=== Rôle : 
+
+Le CISO est responsable de la mise en place et de la gestion d’un plan de réponse aux incidents. 
+
+=== ...
+
+En cas d’attaque ou de violation de données, il doit coordonner les efforts pour contenir, analyser, et remédier à l’incident.
+
+
+=== Objectif : 
+
+Limiter les dommages causés par les incidents de sécurité et restaurer les opérations normales le plus rapidement possible, tout en documentant les leçons apprises pour prévenir des incidents similaires à l'avenir.
+
+== Sensibilisation et formation à la sécurité
+
+=== Rôle : 
+
+Le CISO joue un rôle clé dans la création et la mise en œuvre de programmes de formation et de sensibilisation à la sécurité pour tous les employés. 
+
+=== ...
+
+Cela inclut des campagnes de formation sur les meilleures pratiques de sécurité, telles que l’hygiène des mots de passe ou la détection de tentatives de phishing.
+
+=== Objectif : 
+
+Renforcer la culture de sécurité au sein de l’organisation en s’assurant que tous les employés, à tous les niveaux, sont conscients de leur rôle dans la protection des informations sensibles.
+
+== Gouvernance de la sécurité et collaboration
+
+=== Rôle : 
+
+Le CISO travaille en collaboration avec la direction générale, le conseil d'administration, le DSI (Directeur des Systèmes d'Information), et d'autres parties prenantes pour garantir que la sécurité informatique est intégrée dans toutes les décisions stratégiques.
+
+=== Objectif : 
+
+Assurer une gouvernance de la sécurité qui prend en compte les besoins de l'entreprise tout en répondant aux exigences des parties prenantes.
+
+
+== Sécurisation des technologies émergentes
+
+=== Rôle : 
+
+Avec l’adoption croissante de nouvelles technologies telles que le cloud computing, l'Internet des objets (IoT), et l’intelligence artificielle (IA), le CISO doit s'assurer que ces innovations sont sécurisées dès leur implémentation.
+
+
+=== Objectif : 
+
+Permettre à l'entreprise d'innover tout en minimisant les risques associés aux nouvelles technologies.
+
+== Rapports et métriques
+=== Rôle : 
+
+Le CISO rend compte de l'état de la cybersécurité de l'organisation au conseil d'administration, aux comités de direction, et aux autres parties prenantes. 
+
+=== ...
+
+Cela inclut la présentation d'indicateurs clés de performance (KPI) en matière de sécurité, des rapports sur les incidents de sécurité, et des évaluations des risques.
+
+=== Objectif : 
+
+Fournir une visibilité claire et factuelle sur l'état de la sécurité de l'information, tout en favorisant des décisions éclairées au niveau stratégique.
+
+== Planification de la continuité et gestion des crises
+
+=== Rôle : 
+
+Le CISO participe à la planification de la continuité des activités et à la gestion des crises en lien avec les incidents de cybersécurité. 
+
+=== ...
+
+Il contribue à l'élaboration des plans de reprise après sinistre (DRP) et assure qu'ils incluent des scénarios de cyberattaques.
+
+=== Objectif : 
+
+Assurer que l'organisation peut rapidement se remettre de toute perturbation causée par des cyberincidents majeurs tout en limitant l’impact sur les opérations.
+
+
+
+
+
+

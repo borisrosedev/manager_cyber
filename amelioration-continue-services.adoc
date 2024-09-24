@@ -6,7 +6,11 @@ L'approche d'amélioration continue des services (Continual Service Improvement,
 
 === ...
 
-Elle se concentre sur l'optimisation continue des services IT, en analysant les performances passées et actuelles, et en identifiant les domaines d'amélioration. 
+Elle se concentre sur l'optimisation continue des services IT, en analysant les performances passées et actuelles, ...
+
+=== ...
+
+et en identifiant les domaines d'amélioration. 
 
 === ...
 
@@ -22,7 +26,11 @@ CSI s'assure que les services IT évoluent en phase avec les objectifs stratégi
 
 === Optimisation des performances des services : 
 
-CSI identifie les points faibles des services existants et propose des solutions pour améliorer leur efficacité, leur disponibilité et leur performance.
+CSI identifie les points faibles des services existants et propose des solutions pour améliorer leur efficacité, ...
+
+=== ...
+
+leur disponibilité et leur performance.
 
 === Mesure de l'efficacité des services IT : 
 
@@ -30,8 +38,11 @@ CSI met en place des indicateurs clés de performance (KPI) et utilise les donn�
 
 === Réduction des coûts : 
 
-En améliorant les processus et en éliminant les inefficacités, CSI permet de réduire les coûts liés à l'exploitation des services IT sans compromettre leur qualité.
+En améliorant les processus et en éliminant les inefficacités, ...
 
+=== ...
+
+CSI permet de réduire les coûts liés à l'exploitation des services IT sans compromettre leur qualité.
 
 == Le Cycle d'Amélioration Continue (Deming Cycle)
 
@@ -44,6 +55,9 @@ Ce cycle permet de structurer les efforts d'amélioration continue de manière m
 == Plan (Planifier) :
 
 Identifier les opportunités d'amélioration.
+
+=== ...
+
 Définir des objectifs mesurables et alignés avec la stratégie business.
 Planifier les actions nécessaires pour atteindre ces objectifs.
 
@@ -51,7 +65,12 @@ Planifier les actions nécessaires pour atteindre ces objectifs.
 
 Mettre en œuvre les actions et solutions prévues.
 
+=== ...
+
 Impliquer les parties prenantes dans l'exécution du plan.
+
+
+=== ...
 
 S'assurer que les processus sont correctement suivis.
 
@@ -59,8 +78,11 @@ S'assurer que les processus sont correctement suivis.
 
 Évaluer les résultats obtenus par rapport aux objectifs fixés.
 
+=== ...
 
 Mesurer les KPI définis pour identifier les écarts ou les points d'amélioration.
+
+=== ...
 
 Utiliser des rapports d'audit et des retours d'expérience pour affiner l'analyse.
 
@@ -106,7 +128,11 @@ Ajuster les SLAs si nécessaire pour améliorer la satisfaction des clients.
 
 == Gestion des processus ITIL :
 
-S'assurer que les processus ITIL (gestion des incidents, des problèmes, des changements, etc.) sont exécutés de manière cohérente et améliorés en fonction des résultats obtenus.
+S'assurer que les processus ITIL (gestion des incidents, des problèmes, des changements, etc.) ...
+
+=== ...
+
+sont exécutés de manière cohérente et améliorés en fonction des résultats obtenus.
 
 == Feedback et amélioration continue :
 
@@ -119,7 +145,11 @@ Mettre en place un système pour recueillir, analyser et appliquer ces feedbacks
 
 == Le Modèle CSI en 7 étapes
 
-Le modèle CSI d'ITIL est un processus structuré en sept étapes, qui aide à évaluer les performances et à identifier des opportunités d'amélioration. 
+Le modèle CSI d'ITIL est un processus structuré en sept étapes, qui aide à évaluer les performances et ...
+
+=== ...
+
+à identifier des opportunités d'amélioration. 
 
 
 == Identifier ce qu’il faut mesurer :
@@ -182,19 +212,34 @@ Avantages de l'approche CSI
 
 === Amélioration continue des services : 
 
-CSI garantit que les services IT sont régulièrement évalués et améliorés, assurant leur alignement avec les besoins évolutifs de l'entreprise.
+CSI garantit que les services IT sont régulièrement évalués et 
+
+=== ...
+
+améliorés, assurant leur alignement avec les besoins évolutifs de l'entreprise.
 
 === Meilleure satisfaction des utilisateurs : 
 
-En répondant de manière proactive aux retours d'expérience des utilisateurs et en ajustant les services, CSI améliore la qualité et la satisfaction client.
+En répondant de manière proactive aux retours d'expérience des utilisateurs et en ajustant les services, ...
+=== ...
+
+CSI améliore la qualité et la satisfaction client.
 
 === Optimisation des ressources IT : 
 
-Grâce à l'évaluation des processus et des services, CSI permet une meilleure gestion des ressources IT, en réduisant les gaspillages et en optimisant l'utilisation.
+Grâce à l'évaluation des processus et des services, CSI permet une meilleure gestion des ressources IT, ...
+
+=== ...
+
+en réduisant les gaspillages et en optimisant l'utilisation.
 
 === Réduction des risques et des coûts : 
 
-En identifiant et corrigeant rapidement les inefficacités ou les problèmes, CSI contribue à réduire les risques opérationnels et les coûts associés aux pannes ou aux interruptions de service.
+En identifiant et corrigeant rapidement les inefficacités ou les problèmes, CSI contribue à réduire les risques opérationnels et ...
+
+=== ...
+
+les coûts associés aux pannes ou aux interruptions de service.
 
 
 

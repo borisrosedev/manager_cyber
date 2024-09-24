@@ -71,13 +71,22 @@ Elle est souvent gérée par des responsables IT, des administrateurs systèmes,
 
 === Outils utilisés : 
 
-Des outils comme ITSM (gestion des services IT), les logiciels de gestion des configurations, et la gestion des infrastructures IT sont couramment utilisés dans la gestion IT.
+Des outils comme ITSM (gestion des services IT), les logiciels de gestion des configurations, ...
+
+=== ...
+
+et la gestion des infrastructures IT sont couramment utilisés dans la gestion IT.
 
 == Comparaison clé
 
 === Perspective : 
 
-La gouvernance IT est stratégique et vise à aligner l’IT avec les objectifs d’entreprise, tandis que la gestion IT est opérationnelle et concerne l’efficacité des opérations IT au jour le jour.
+La gouvernance IT est stratégique et vise à aligner l’IT avec les objectifs d’entreprise, ...
+
+=== ...
+
+
+tandis que la gestion IT est opérationnelle et concerne l’efficacité des opérations IT au jour le jour.
 
 === Horizon temporel : 
 

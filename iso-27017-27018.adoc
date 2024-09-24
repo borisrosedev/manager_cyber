@@ -1,0 +1,143 @@
+= Les normes ISO/IEC 27017 et ISO/IEC 27018
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+Les normes ISO/IEC 27017 et ISO/IEC 27018 sont des extensions spécifiques du cadre de gestion de la sécurité de l'information ISO 27001. 
+
+=== ...
+
+Elles se concentrent principalement sur la sécurité des services de cloud computing. 
+
+=== ISO/IEC 27017 – Sécurité des services dans le cloud
+
+La norme ISO/IEC 27017 fournit des lignes directrices pour la sécurité dans les environnements de cloud computing. 
+
+=== ...
+
+Elle s'adresse aussi bien aux fournisseurs de services cloud (CSP) qu'aux clients de ces services, 
+
+=== ...
+
+et vient compléter les exigences de sécurité de l'ISO 27001 avec des contrôles spécifiques au cloud.
+
+== Objectifs principaux :
+
+=== Renforcer la sécurité des environnements cloud : 
+
+Protéger les infrastructures, données et systèmes dans les environnements de cloud public, privé ou hybride.
+
+=== Améliorer la transparence entre fournisseurs et clients : 
+
+Clarifier les responsabilités en matière de sécurité, que ce soit pour le fournisseur ou pour le client (modèle de responsabilité partagée).
+
+=== Offrir des recommandations spécifiques au cloud : 
+
+La norme propose des contrôles supplémentaires au-delà de ceux inclus dans l'ISO 27001, qui sont spécifiquement adaptés aux services cloud.
+
+== Points clés couverts par ISO 27017 :
+
+=== Responsabilités entre le fournisseur et le client : 
+
+La norme définit clairement quelles parties de la sécurité relèvent du fournisseur de services cloud et lesquelles relèvent du client.
+
+=== Gestion de la configuration des services cloud : 
+
+Des lignes directrices pour sécuriser la configuration des services cloud, notamment pour l’accès, la gestion des réseaux et des machines virtuelles.
+
+=== Protection des informations sensibles dans le cloud : 
+
+Des recommandations pour chiffrer les données stockées et en transit.
+
+=== Prévention des pertes de données : 
+
+Propositions de contrôles pour protéger les données contre les pertes ou les accès non autorisés, ainsi que des procédures de récupération après incident.
+
+=== Protection de la confidentialité des données : 
+
+Alignement avec des réglementations et des pratiques qui garantissent la protection des données personnelles.
+
+== Utilité pour les entreprises :
+
+=== Fournisseurs de services cloud : 
+
+Elle aide à renforcer les mesures de sécurité qu'ils mettent en place et à clarifier leurs responsabilités vis-à-vis de leurs clients.
+
+=== Clients de services cloud : 
+
+Elle permet aux clients de comprendre quels contrôles de sécurité doivent être en place et où ils se situent dans la chaîne de responsabilité de la sécurité.
+
+== ISO/IEC 27018 – Protection des données personnelles dans le cloud
+
+
+La norme ISO/IEC 27018 se concentre spécifiquement sur la protection des données à caractère personnel (PII – Personally Identifiable Information)... 
+
+=== ...
+
+dans les environnements de cloud computing. 
+
+=== ...
+
+Elle s'adresse principalement aux fournisseurs de services cloud traitant des données personnelles, notamment les services cloud publics.
+
+== Objectifs principaux :
+
+=== Protection des informations personnelles : 
+
+S’assurer que les données personnelles sont traitées et stockées conformément aux exigences de confidentialité.
+
+=== Conformité avec les lois sur la protection des données : 
+
+Garantir que les services de cloud respectent les lois et règlements sur la confidentialité des données, comme le RGPD (Règlement Général sur la Protection des Données) en Europe.
+
+=== Établir un cadre de gouvernance sur la protection des données : 
+
+Spécifiquement pour les fournisseurs de services cloud qui traitent des données personnelles pour le compte de leurs clients.
+
+== Points clés couverts par ISO 27018 :
+
+=== Consentement de l’utilisateur : 
+
+S'assurer que les données personnelles sont traitées uniquement avec le consentement de l'utilisateur ...
+
+=== ....
+
+ou pour les fins explicitement autorisées par les clients du service cloud.
+
+=== Transparence : 
+
+Les fournisseurs de services cloud doivent être transparents sur la manière dont les données personnelles sont traitées et où elles sont stockées.
+
+=== Gestion des données personnelles : 
+
+La norme impose des contrôles sur la gestion du cycle de vie des données personnelles, y compris la suppression sécurisée des données lorsque le contrat est terminé.
+
+=== Accès aux données personnelles : 
+
+Seuls les utilisateurs autorisés doivent avoir accès aux informations personnelles. Des mesures de contrôle d’accès robustes et un suivi des accès sont nécessaires.
+
+=== Sécurité des données personnelles : 
+
+Le chiffrement, la pseudonymisation et d’autres techniques doivent être appliqués pour protéger les données personnelles dans les environnements cloud.
+
+== Utilité pour les entreprises :
+
+=== Fournisseurs de services cloud : 
+
+ISO 27018 leur permet de se conformer aux exigences de protection des données personnelles, renforçant ainsi la confiance de leurs clients.
+
+=== Clients de services cloud : 
+
+Les clients peuvent s'assurer que leurs données personnelles sont protégées selon les normes internationales et que leurs fournisseurs cloud respectent les lois sur la confidentialité.
+
+
+== Comparaison et relation entre ISO 27017 et ISO 27018
+
+
+ISO 27017 se concentre sur la sécurité des services cloud en général, couvrant un large éventail de pratiques de sécurité applicables à l'infrastructure, aux services et aux réseaux du cloud.
+
+=== ...
+
+ISO 27018 est plus spécialisée, ciblant spécifiquement la protection des données personnelles dans les environnements de cloud public, en conformité avec les lois de confidentialité.

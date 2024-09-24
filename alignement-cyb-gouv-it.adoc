@@ -1,0 +1,111 @@
+= Aligement des politiques de cybersécurité avec les objets de gouvernance IT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+L’alignement des politiques de cybersécurité avec les objectifs de gouvernance IT est essentiel pour assurer une gestion efficace des risques, la protection des actifs numériques et la conformité aux régulations. 
+
+
+== Compréhension des Objectifs Stratégiques
+
+=== Objectifs de gouvernance IT : 
+
+Ils visent à maximiser la valeur des technologies de l’information tout en minimisant les risques et en assurant une utilisation responsable des ressources. 
+
+
+Les priorités incluent:
+[%step]
+* l’optimisation des processus, 
+* l’innovation, la conformité réglementaire 
+* la gestion des risques.
+
+== Objectifs de cybersécurité : 
+
+Ils se concentrent sur la protection des informations, des systèmes et des réseaux contre les menaces et les vulnérabilités.
+
+== Alignement : 
+
+Les politiques de cybersécurité doivent être développées en tenant compte des objectifs stratégiques de l'organisation. 
+
+=== ...
+
+Par exemple, si l'innovation est une priorité, la sécurité doit permettre des initiatives innovantes tout en protégeant les actifs critiques.
+
+== Gestion des Risques
+
+=== Approche basée sur les risques : 
+
+Les politiques de cybersécurité doivent prioriser les contrôles en fonction de l'évaluation des risques IT. 
+
+=== ...
+
+Cela permet de concentrer les efforts sur les actifs et les données les plus critiques.
+
+=== Lien avec la gouvernance : 
+
+La gestion des risques IT est un des piliers de la gouvernance IT. Un bon alignement permet de mieux anticiper les menaces tout en répondant aux exigences de continuité des activités.
+
+
+== Conformité et Réglementation
+
+=== Conformité : 
+
+Les politiques de cybersécurité doivent inclure les exigences légales et réglementaires spécifiques à l’industrie (GDPR, HIPAA, etc.). 
+
+=== ...
+
+Cela doit s’intégrer dans les stratégies globales de gouvernance IT pour éviter des sanctions et assurer une bonne réputation.
+
+=== Relation avec la gouvernance : 
+
+La gouvernance IT vise à garantir que l’organisation respecte les obligations réglementaires. Les politiques de cybersécurité doivent s'adapter aux évolutions légales pour assurer la conformité continue.
+
+
+== Culture de la Sécurité et Formation
+
+=== Sensibilisation à la sécurité : 
+
+Pour réussir l’alignement, une culture de la sécurité doit être instaurée dans toute l’organisation, de la direction aux employés.
+
+=== Impact sur la gouvernance : 
+
+Un programme de formation continue renforce l'engagement de la gouvernance IT en assurant que les décisions prises au niveau stratégique sont bien comprises et appliquées opérationnellement.
+
+
+== Responsabilités et Structures Organisationnelles
+
+=== Définition des rôles : 
+
+La gouvernance IT attribue des rôles et responsabilités clairs, notamment pour les fonctions critiques comme le DSI (Directeur des Systèmes d’Information) ou le RSSI (Responsable de la Sécurité des Systèmes d’Information).
+
+=== Politiques de sécurité : 
+
+Elles doivent inclure des mécanismes de gouvernance qui définissent qui est responsable de quoi en matière de cybersécurité. 
+
+=== ...
+
+Par exemple, des comités de gouvernance qui incluent des parties prenantes de la cybersécurité sont essentiels pour cet alignement.
+
+== Évaluation Continue et Amélioration
+
+=== Gouvernance adaptative : 
+
+La gouvernance IT doit prévoir des processus d’évaluation régulière des pratiques en place, y compris des politiques de cybersécurité, afin de s’assurer que celles-ci restent pertinentes face à l’évolution des menaces.
+
+=== Politiques de cybersécurité dynamiques : 
+
+Les politiques de sécurité doivent être suffisamment flexibles pour s'adapter aux nouvelles vulnérabilités et technologies tout en soutenant les objectifs de gouvernance.
+
+== Investissement et ROI (Retour sur Investissement)
+
+=== Optimisation des ressources : 
+
+La gouvernance IT doit s'assurer que les investissements en cybersécurité sont optimisés en fonction des risques identifiés et des priorités stratégiques.
+
+
+=== Alignement des priorités : 
+
+
+Les politiques de sécurité doivent justifier leur valeur en termes de protection des actifs critiques et de continuité des opérations, contribuant ainsi au succès global des objectifs IT.
