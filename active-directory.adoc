@@ -1,0 +1,383 @@
+= Active Directory
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Qu'est-ce que Active Directory (AD) ?
+
+Active Directory (AD) est un service de gestion des identités et des accès développé par Microsoft. 
+
+=== ...
+
+Il permet de gérer et d'organiser les informations des utilisateurs, des ordinateurs, et d'autres ressources dans un réseau d'entreprise. 
+
+=== ...
+
+Active Directory est principalement utilisé dans les environnements sur site (on-premise) ...
+
+=== ...
+
+joue un rôle essentiel dans les infrastructures IT des organisations en offrant un point centralisé pour l'administration des identités et des accès.
+
+=== ...
+
+Active Directory est souvent déployé dans des réseaux Windows, mais il peut aussi s'intégrer ...
+
+
+=== ...
+
+avec d'autres systèmes d'exploitation et technologies via des protocoles standardisés tels que LDAP (Lightweight Directory Access Protocol).
+
+== Structure d'Active Directory
+
+Active Directory est organisé de manière hiérarchique et contient plusieurs composants qui facilitent ...
+
+=== ...
+
+la gestion des identités et des ressources réseau. Voici les principaux éléments de sa structure :
+
+
+== Forêts (Forest)
+
+Une forêt est l’unité de plus haut niveau dans une infrastructure Active Directory. 
+
+=== ...
+
+Elle regroupe plusieurs domaines et fournit un cadre de gestion pour ces domaines. 
+
+=== ...
+
+Les objets (utilisateurs, ordinateurs, etc.) peuvent être partagés et contrôlés à travers la forêt.
+
+=== ...
+
+
+Une forêt peut inclure plusieurs domaines qui partagent des informations et des ressources tout en maintenant une frontière de sécurité.
+
+
+== Domaines (Domain)
+
+Un domaine est une unité logique qui regroupe un ensemble d’objets Active Directory, ...
+
+=== ...
+
+tels que les utilisateurs, les ordinateurs et les groupes. 
+
+=== ...
+
+Chaque domaine possède une base de données unique qui stocke les informations sur ces objets.
+
+=== ...
+
+Les domaines sont utilisés pour organiser les ressources ...
+
+=== ...
+
+au sein d'une entreprise et permettre des politiques spécifiques (comme la gestion des mots de passe et des accès).
+
+=== ...
+
+Les objets d'un domaine sont généralement gérés par des contrôleurs de domaine (Domain Controllers).
+
+
+== Unités organisationnelles (OU)
+
+
+Les unités organisationnelles (OU) sont des sous-groupes d'un domaine et servent à organiser les objets dans une structure hiérarchique au sein du domaine.
+
+=== ...
+
+Les OUs permettent de créer des politiques et des permissions différentes pour chaque groupe, ...
+
+
+=== ...
+
+
+ce qui facilite l'administration des objets dans Active Directory (comme les utilisateurs ou les ordinateurs).
+
+
+
+== Objets
+
+Un objet est une ressource identifiable dans Active Directory. 
+
+=== ...
+
+Cela peut être un utilisateur, un groupe, un ordinateur, une imprimante, ou tout autre élément réseau.
+
+=== ...
+
+Les objets ont des attributs, qui sont des informations spécifiques (comme le nom, le mot de passe, le rôle, ou l’emplacement).
+
+=== ...
+
+Chaque objet dans Active Directory est identifié de manière unique par son DN (Distinguished Name).
+
+
+== Contrôleurs de domaine (Domain Controllers)
+
+Les contrôleurs de domaine sont des serveurs qui exécutent Active Directory et sont responsables de la gestion des identités et des accès. 
+
+=== ...
+
+Ils stockent la base de données Active Directory et sont responsables de l’authentification et de la validation des utilisateurs et des ressources.
+
+
+=== ...
+
+Lorsqu’un utilisateur se connecte à un réseau, le contrôleur de domaine vérifie les informations d'identification ...
+
+=== ...
+
+et accorde ou refuse l'accès en fonction des autorisations définies.
+
+
+
+== Sites
+
+
+Un site dans Active Directory représente une unité géographique ...
+
+=== ...
+
+ou logique du réseau, souvent utilisée pour définir la localisation physique des ressources, comme les succursales d'une entreprise. 
+
+=== ...
+
+Les sites sont utilisés pour optimiser la réplication des données entre les contrôleurs de domaine.
+
+== Comment fonctionne Active Directory ?
+
+Active Directory centralise l'administration des identités et des ressources dans un réseau d’entreprise. 
+
+=== ...
+
+Quelques éléments clés qui expliquent son fonctionnement :
+
+
+=== Authentification des utilisateurs
+
+Lorsqu’un utilisateur essaie de se connecter à un ordinateur ou à un réseau, son nom d’utilisateur ...
+
+=== ...
+
+et son mot de passe sont envoyés à un contrôleur de domaine (DC).
+
+=== ...
+
+Le contrôleur de domaine vérifie les informations d'identification dans la base de données Active Directory. 
+
+=== ...
+
+Si les informations sont valides, l’utilisateur est authentifié et obtient l’accès aux ressources en fonction de ses droits.
+
+=== ...
+
+Active Directory utilise des protocoles d’authentification comme Kerberos pour garantir une authentification sécurisée.
+
+
+=== Gestion centralisée des accès
+
+Active Directory permet aux administrateurs de définir des politiques de sécurité à l'échelle de l'organisation, ...
+
+=== ...
+
+telles que les Group Policies. 
+
+=== ...
+
+Ces politiques peuvent inclure des règles pour la gestion des mots de passe, les restrictions d’accès, et les configurations des postes de travail.
+
+=== ...
+
+Une fois qu’une Group Policy est définie, ...
+
+=== ...
+
+elle peut être appliquée à tous les objets ou à des groupes d’utilisateurs spécifiques via des Unités Organisationnelles (OU).
+
+
+=== Groupes et permissions
+
+Les utilisateurs et les autres objets Active Directory ...
+
+=== ...
+
+
+peuvent être regroupés en groupes pour faciliter la gestion des accès aux ressources (fichiers, applications, imprimantes, etc.).
+
+=== ...
+
+Les permissions sont assignées aux groupes, plutôt qu’à chaque utilisateur individuel, ce qui permet une administration plus simple et plus efficace.
+
+== Réplication des données
+
+Active Directory utilise un mécanisme de réplication pour garantir ...
+
+=== ...
+
+que chaque contrôleur de domaine dispose des informations les plus à jour sur les objets de l'annuaire.
+
+=== ...
+
+Cette réplication peut se produire au sein d'un même site ou entre différents sites dans une organisation mondiale. 
+
+=== ...
+
+Cela permet une tolérance aux pannes et garantit que même si un contrôleur de domaine échoue, ...
+
+=== ...
+
+d’autres contrôleurs peuvent continuer à authentifier les utilisateurs.
+
+
+== Contrôle des accès basé sur les rôles (RBAC)
+
+Active Directory permet la gestion des accès basés sur des rôles (RBAC), ...
+
+=== ...
+
+
+où les autorisations d'accès sont assignées en fonction des rôles des utilisateurs. 
+
+=== ...
+
+Par exemple, les employés du service informatique peuvent avoir des droits administratifs, ...
+
+
+=== ...
+
+tandis que les employés d’autres départements peuvent avoir des permissions limitées.
+
+
+== Gestion des appareils
+
+Active Directory ne gère pas uniquement les utilisateurs, ...
+
+=== ...
+
+mais aussi les appareils tels que les ordinateurs, les serveurs, les imprimantes, et d’autres périphériques réseau.
+
+=== ...
+
+Les ordinateurs connectés à un domaine Active Directory sont enregistrés comme objets ...
+
+
+=== ...
+
+et peuvent recevoir des politiques spécifiques pour la gestion des mises à jour, des logiciels installés, et de la sécurité.
+
+
+== Avantages d'Active Directory
+
+=== Gestion centralisée : 
+
+Active Directory permet une gestion centralisée de tous les comptes utilisateurs, groupes, ordinateurs, ...
+
+=== ...
+
+et autres objets. Les administrateurs peuvent gérer les identités et les accès à partir d’un point unique.
+
+=== Sécurité renforcée : 
+
+AD permet de contrôler finement l’accès aux ressources à travers des politiques de sécurité. 
+
+=== ...
+
+
+Il supporte aussi des mécanismes d’authentification robustes comme Kerberos et permet d’appliquer l’authentification multifacteur (MFA).
+
+=== Contrôle d'accès basé sur les rôles (RBAC) : 
+
+Grâce à une gestion basée sur les rôles, Active Directory facilite l'attribution des permissions aux utilisateurs ...
+
+=== ...
+
+et groupes en fonction de leurs responsabilités au sein de l’organisation.
+
+=== Scalabilité : 
+
+Active Directory est conçu pour évoluer avec l'organisation. 
+
+=== ...
+
+Il peut prendre en charge de grandes infrastructures, avec des millions d’objets et plusieurs domaines, sans perte de performance.
+
+=== Interopérabilité avec des environnements hybrides : 
+
+AD peut être intégré avec Azure Active Directory (Azure AD) pour gérer des environnements hybrides où ...
+
+=== ...
+
+les utilisateurs accèdent à la fois à des applications sur site et des services cloud comme Microsoft 365.
+
+== Cas d’utilisation d'Active Directory
+
+=== Gestion des identités d’entreprise : 
+
+Active Directory est utilisé pour gérer les comptes utilisateurs dans une organisation, leur assigner des rôles et ...
+
+
+=== ...
+
+des permissions pour accéder aux systèmes et aux applications d'entreprise.
+
+=== Contrôle des accès réseau : 
+
+AD est souvent utilisé pour restreindre ou autoriser l'accès à certaines ressources réseau, comme les partages de fichiers, ...
+
+=== ...
+
+les imprimantes, ou les bases de données, selon les groupes et les permissions configurées.
+
+=== Sécurité et conformité : 
+
+En appliquant des Group Policies, les administrateurs peuvent s'assurer que tous les ordinateurs ...
+
+=== ...
+
+et utilisateurs respectent les politiques de sécurité de l'organisation. 
+
+=== ...
+
+Cela peut inclure des politiques de verrouillage des écrans, des mots de passe complexes, et des restrictions sur les installations de logiciels.
+
+=== Gestion des postes de travail : 
+
+
+Grâce à la gestion des appareils, AD permet de déployer des mises à jour de sécurité, ...
+
+=== ...
+
+de gérer les configurations des systèmes d'exploitation, ...
+
+=== ...
+
+et de s'assurer que tous les postes de travail sont conformes aux politiques de l'entreprise.
+
+=== ...
+
+Différence entre Active Directory et Azure Active Directory (Azure AD)
+Active Directory (AD) est principalement utilisé ...
+
+
+=== ...
+
+pour les infrastructures sur site et repose sur des serveurs physiques appelés contrôleurs de domaine.
+
+=== ...
+
+Il gère les accès aux ressources locales, comme les fichiers, les imprimantes et les applications internes.
+
+=== ...
+
+Azure Active Directory (Azure AD) est la version cloud de la gestion des identités. 
+
+=== ...
+
+Il est conçu pour gérer les accès aux applications SaaS, aux services cloud,
+
+=== ...
+
+et peut être utilisé pour synchroniser les identités entre un environnement AD local et des ressources cloud (via Azure AD Connect).
+

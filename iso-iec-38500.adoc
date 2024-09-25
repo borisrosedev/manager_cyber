@@ -6,6 +6,9 @@
 == Introduction
 
 L'ISO/IEC 38500 est une norme internationale de gouvernance des technologies de l'information (IT) publiée par:
+
+=== ...
+
 [%step]
 * l'Organisation internationale de normalisation (ISO)
 * la Commission électrotechnique internationale (IEC). 

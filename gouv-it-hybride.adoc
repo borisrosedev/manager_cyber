@@ -1,0 +1,331 @@
+= La gouvernance IT hybride
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+La gouvernance IT hybride combine les avantages de la centralisation et de la décentralisation ...
+
+
+=== ...
+
+
+pour créer un modèle d’équilibre entre contrôle centralisé et autonomie locale. 
+
+
+=== ...
+
+Elle permet à une organisation de bénéficier d’une gestion IT cohérente tout en offrant 
+
+=== ...
+
+une flexibilité suffisante aux unités d’affaires locales pour répondre à leurs besoins spécifiques.
+
+
+== Principes clés d'une gouvernance IT hybride
+
+=== Centralisation des fonctions critiques
+
+Certaines fonctions IT, telles que la sécurité, la gestion des risques, la conformité réglementaire, et l’infrastructure réseau de base, sont gérées de manière centralisée. 
+
+=== ...
+
+Cela garantit la cohérence, la conformité aux normes, et une gestion uniforme des risques à travers toute l'organisation.
+
+=== ...
+
+La gestion de la cybersécurité et des politiques de conformité est souvent centralisée pour éviter les failles de sécurité ...
+
+=== ...
+
+et garantir que l'ensemble de l'organisation adhère aux mêmes standards.
+
+
+== Autonomie des unités d’affaires locales
+
+Les unités d'affaires ont l'autonomie pour choisir et adapter les technologies et outils spécifiques qui répondent à leurs besoins opérationnels. 
+
+=== ...
+
+Par exemple, elles peuvent sélectionner des applications métiers spécifiques tout en respectant un cadre global défini par le siège.
+
+=== ...
+
+Les départements locaux peuvent également gérer certains aspects de leur support IT  ...
+
+=== ...
+
+ou de leurs projets de transformation digitale de manière indépendante, tout en respectant des standards communs.
+
+
+
+=== Cadre et directives globales
+
+Un cadre global est défini par le siège pour guider les décisions locales, garantissant ...
+
+=== ...
+
+ainsi que les systèmes locaux respectent des normes minimales en matière de sécurité, d'interopérabilité, et de conformité.
+
+=== ...
+
+Ce cadre peut inclure des politiques de sécurité, des procédures de gestion des données, et des standards technologiques. 
+
+=== ...
+
+Les unités locales peuvent personnaliser leurs outils tant qu'elles respectent ces lignes directrices.
+
+
+=== Coordination centralisée avec flexibilité locale
+
+L'organisation bénéficie d'un contrôle centralisé sur les infrastructures critiques, ...
+
+=== ...
+
+les budgets globaux, et les priorités stratégiques, mais avec une décentralisation des responsabilités pour les initiatives locales.
+
+=== ...
+
+
+La gouvernance des données, par exemple, peut être centralisée, garantissant une approche cohérente de la gestion des données sensibles, ...
+
+=== ...
+
+tandis que les départements locaux gèrent leurs propres bases de données en fonction de leurs besoins spécifiques.
+
+
+
+== Avantages de la gouvernance IT hybride
+
+
+=== Optimisation des coûts
+
+Les économies d'échelle sont réalisées grâce à la centralisation des fonctions IT critiques ...
+
+=== ...
+
+
+telles que les achats de logiciels et d'infrastructure. 
+
+=== ...
+
+Cela permet de négocier de meilleurs tarifs pour les technologies courantes, tout ...
+
+=== ...
+
+en laissant une certaine autonomie pour l’achat de solutions spécifiques à chaque unité.
+
+=== ...
+
+La centralisation des fonctions communes réduit la duplication des efforts, tandis que la décentralisation ...
+
+=== ...
+
+permet de choisir des outils adaptés localement, réduisant les dépenses superflues.
+
+
+=== Flexibilité et réactivité
+
+Les départements locaux peuvent s'adapter plus rapidement aux exigences spécifiques de leur environnement ou de leurs clients. 
+
+=== ...
+
+Par exemple, un service marketing pourrait utiliser ...
+
+=== ...
+
+des outils analytiques différents de ceux utilisés par le service financier, tout en s’intégrant dans une infrastructure centralisée.
+
+=== ...
+
+
+Cette agilité permet de répondre plus rapidement aux besoins changeants sans avoir à attendre l'approbation d'une entité centrale pour chaque décision.
+
+
+=== Innovation locale
+
+La décentralisation permet aux unités d’affaires locales d’expérimenter et d’innover ...
+
+=== ...
+
+en testant de nouvelles technologies ou méthodes adaptées à leurs besoins spécifiques. 
+
+=== ...
+
+Cela encourage la créativité et permet de découvrir des solutions qui peuvent ensuite être adoptées à l’échelle de l’organisation si elles sont efficaces.
+
+
+=== Meilleure gestion des risques
+
+La centralisation des fonctions critiques, comme la cybersécurité et la conformité, ...
+
+=== ...
+
+permet une gestion plus rigoureuse des risques IT. 
+
+=== ...
+
+Cela garantit que les politiques de sécurité et les audits sont uniformes et appliqués à l'ensemble de l'organisation.
+
+=== ...
+
+En parallèle, les unités locales, avec leur autonomie, peuvent identifier des risques spécifiques et répondre ...
+
+=== ...
+
+à des besoins urgents, tout en restant alignées avec les stratégies globales de gestion des risques.
+
+
+
+== Défis de la gouvernance IT hybride
+
+
+=== Complexité accrue
+
+La gestion d’une gouvernance hybride peut s’avérer complexe, car il est nécessaire de coordonner ...
+
+=== ...
+
+à la fois les équipes centrales et locales. 
+
+
+=== ...
+
+Cela nécessite des outils de gestion efficaces et une communication constante entre les différents niveaux.
+
+=== ...
+
+Les responsabilités doivent être clairement définies pour éviter les conflits entre les équipes locales ...
+
+=== ...
+
+et centrales, et des processus de gouvernance clairs doivent être établis.
+
+
+
+=== Risques d’incohérence
+
+Bien que la centralisation assure une cohérence au niveau de l'organisation, la flexibilité locale peut entraîner ...
+
+=== ...
+
+une fragmentation des systèmes si des contrôles adéquats ne sont pas en place.
+
+=== ...
+
+Par exemple, si chaque unité choisit des technologies incompatibles avec l'infrastructure centrale, ...
+
+=== ...
+
+cela peut compliquer l'intégration et la maintenance des systèmes.
+
+
+=== Surveillance et audit
+
+La décentralisation peut rendre les processus de surveillance et d'audit plus difficiles. 
+
+=== ...
+
+Les systèmes locaux doivent être régulièrement vérifiés pour s'assurer qu'ils respectent les normes centrales, ...
+
+=== ...
+
+ce qui peut nécessiter des ressources supplémentaires.
+
+=== ...
+
+Il est essentiel de mettre en place des outils d’audit automatisés pour suivre les performances ...
+
+=== ...
+
+et la conformité à l’échelle de l'organisation.
+
+
+== Exemples de gouvernance hybride réussie
+
+
+=== Grandes entreprises multinationales
+
+
+De nombreuses entreprises multinationales adoptent une gouvernance IT hybride ...
+
+=== ...
+
+pour gérer la diversité de leurs opérations à travers le monde. Par exemple, une société peut centraliser ...
+
+=== ...
+
+sa gestion des infrastructures cloud à l'échelle mondiale tout en permettant aux divisions locales ...
+
+=== ...
+
+de choisir des applications métiers spécifiques à leur marché.
+
+
+=== Secteur de l’éducation
+
+Dans les universités, les départements académiques peuvent disposer de leurs propres systèmes IT pour répondre à ...
+
+=== ...
+
+leurs besoins pédagogiques spécifiques, tandis que l’infrastructure réseau, les services de sécurité, ...
+
+=== ...
+
+et la gestion des données des étudiants sont centralisés.
+
+
+=== Meilleures pratiques pour réussir une gouvernance IT hybride
+
+=== Cadre de gouvernance clair
+
+Définir des politiques et standards globaux pour s'assurer que chaque unité respecte des lignes directrices communes, ...
+
+=== ...
+
+tout en laissant une marge de manœuvre pour l'autonomie locale.
+
+=== ...
+
+Ces standards devraient inclure des règles sur la sécurité, la compatibilité des systèmes, et la gestion des données.
+
+=== Outils de collaboration et de communication
+
+Mettre en place des outils de gestion des projets IT et de collaboration qui permettent aux équipes locales ...
+
+=== ...
+
+et centrales de communiquer efficacement et de partager des informations en temps réel.
+
+=== ...
+
+Utiliser des plateformes qui facilitent la coordination entre les équipes et l'exécution des projets dans les délais impartis.
+
+
+=== Surveillance continue et audits réguliers
+
+Utiliser des outils d'audit et de surveillance automatisés pour garantir que les systèmes locaux respectent ...
+
+=== ...
+
+les normes globales en matière de sécurité, de gestion des données et de performance.
+
+
+=== ...
+
+Mettre en place des mécanismes pour suivre et évaluer les risques spécifiques à chaque unité.
+
+
+=== Formation et sensibilisation
+
+Former les équipes locales aux standards IT de l'organisation pour s'assurer qu'elles respectent les pratiques globales ...
+
+=== ...
+
+tout en utilisant les outils technologiques spécifiques à leurs besoins.
+
+
+
+
+

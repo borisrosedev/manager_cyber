@@ -9,12 +9,23 @@ une DMZ, ou "zone démilitarisée," est une zone de réseau intermédiaire situ�
 
 == But
 
-La DMZ est conçue pour héberger des services accessibles depuis Internet tout en isolant ces services des réseaux internes plus sensibles de l'organisation. 
+La DMZ est conçue pour héberger des services accessibles depuis Internet tout ...
+
+
+=== ...
+
+en isolant ces services des réseaux internes plus sensibles de l'organisation. 
 
 
 == Configuration de sécurité
 
-Cette configuration de sécurité est souvent utilisée pour protéger les serveurs exposés, tels que les serveurs Web, les serveurs de messagerie ou les serveurs VPN, des menaces potentielles provenant d'Internet.
+Cette configuration de sécurité est souvent utilisée pour protéger les serveurs exposés, tels que les serveurs Web, ...
+
+
+=== ...
+
+
+les serveurs de messagerie ou les serveurs VPN, des menaces potentielles provenant d'Internet.
 
 
 == Fonctionnement

@@ -1,0 +1,281 @@
+= Les modèles de gouvernance IT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Intrdouction
+
+Les modèles de gouvernance IT sont des cadres qui permettent aux entreprises de gérer et ...
+
+=== ...
+
+
+d'aligner leurs ressources informatiques avec leurs objectifs stratégiques. 
+
+
+=== ...
+
+Ils définissent les responsabilités, les processus et les contrôles nécessaires pour une gestion efficace de l'IT. 
+
+=== ...
+
+Principaux modèles de gouvernance IT utilisés par les organisations :
+
+
+== COBIT (Control Objectives for Information and Related Technologies)
+
+
+=== Description : 
+
+COBIT est un cadre développé par l'ISACA (Information Systems Audit and Control Association). 
+
+=== ...
+
+Il aide les entreprises à intégrer la gouvernance et la gestion de l'IT en alignant les processus IT avec les objectifs stratégiques de l'organisation.
+
+=== Principes clés :
+
+* Satisfaire les besoins des parties prenantes.
+* Couvrir l'entreprise de bout en bout.
+
+=== ...
+
+* Appliquer un cadre unique et intégré.
+* Activer une approche holistique.
+
+=== ...
+
+* Séparer la gouvernance de la gestion.
+
+=== Objectifs : 
+
+COBIT se concentre sur la création de valeur par une gestion efficace des ressources IT, ...
+
+=== ...
+
+la réduction des risques, et la gestion des performances IT.
+
+
+=== Avantages : 
+
+[%step]
+* Favorise une meilleure prise de décision, 
+* Améliore la gestion des risques IT, 
+* Assure la conformité aux réglementations.
+
+
+
+== ITIL (Information Technology Infrastructure Library)
+
+=== Description : 
+
+ITIL est un cadre axé sur la gestion des services IT. 
+
+=== ...
+
+Il définit les meilleures pratiques pour la fourniture efficace de services IT afin de maximiser la valeur des ressources informatiques pour l'entreprise.
+
+
+=== Principes clés :
+
+[%step]
+* Alignement des services IT sur les besoins de l’entreprise.
+* Amélioration continue des services.
+* Gestion du cycle de vie des services (de la stratégie à l’exploitation et à l’amélioration).
+
+
+=== Objectifs : 
+
+ITIL vise :
+[%step]
+* à améliorer la qualité des services IT, 
+* à renforcer l'efficacité opérationnelle, 
+* à améliorer l'expérience des utilisateurs.
+
+=== Avantages : 
+
+
+* Réduction des coûts IT, 
+* Amélioration de la satisfaction des utilisateurs
+* Gestion optimisée des incidents et des changements.
+
+
+
+== ISO/IEC 38500 (Gouvernance des Technologies de l'Information)
+
+=== Description : 
+
+ISO/IEC 38500 est une norme internationale qui fournit des lignes directrices pour la gouvernance des technologies de l'information. 
+
+=== ...
+
+Elle définit des principes pour aider les dirigeants d'entreprises à s'assurer que l'utilisation de l'IT est conforme à leurs besoins organisationnels.
+
+
+=== Principes clés :
+
+* Responsabilité.
+* Stratégie.
+* Acquisition.
+* Performance.
+* Conformité.
+* Comportement humain.
+
+=== Objectifs : 
+
+L'objectif principal est de veiller à ce que l'IT soutienne les objectifs de l'entreprise tout en garantissant une gestion éthique et efficace des ressources IT.
+
+=== Avantages : 
+
+Améliore la transparence, optimise l'utilisation des ressources IT, et renforce la confiance des parties prenantes.
+
+
+== CMMI (Capability Maturity Model Integration)
+
+=== Description : 
+
+Le CMMI est un modèle qui aide les organisations à améliorer leurs processus. 
+
+=== ...
+
+Bien que plus large que la gouvernance IT, il est souvent utilisé pour mesurer la maturité des processus IT dans les organisations.
+
+=== Niveaux de maturité :
+* Initial.
+* Géré.
+* Défini.
+* Quantitativement géré.
+* Optimisé.
+
+
+=== Objectifs : 
+
+Le CMMI vise à aider les entreprises à améliorer leurs processus IT pour mieux répondre aux besoins des parties prenantes et améliorer les résultats commerciaux.
+
+=== Avantages : 
+
+Amélioration des processus IT, meilleure gestion des projets, et réduction des erreurs et des retards dans les projets IT.
+
+
+== TOGAF (The Open Group Architecture Framework)
+
+=== Description : 
+
+TOGAF est un cadre pour le développement d'une architecture d'entreprise, en mettant un accent particulier sur l'architecture IT. 
+
+=== ...
+
+Il fournit une méthodologie structurée pour aligner les systèmes IT avec les objectifs métier.
+
+=== Principes clés :
+
+* Une approche holistique pour la gestion de l'architecture.
+
+=== ...
+
+* L'alignement des technologies et des objectifs métiers.
+
+=== ...
+
+* Utilisation de meilleures pratiques pour:
+[%step]
+* concevoir, 
+* planifier, 
+* mettre en œuvre 
+* gérer les architectures IT.
+
+
+=== Objectifs : 
+
+TOGAF vise à améliorer l'efficacité de l'architecture IT, ...
+
+...
+
+en assurant une harmonisation étroite avec la stratégie et les besoins de l'entreprise.
+
+=== Avantages : 
+
+* Réduction des coûts IT, 
+* Meilleure gestion des ressources, 
+* Alignement des objectifs technologiques avec les besoins de l'entreprise.
+
+
+
+
+== PMBOK (Project Management Body of Knowledge)
+
+=== Description : 
+
+Le PMBOK est un guide pour la gestion des projets, y compris ceux liés aux projets IT. 
+
+
+=== ...
+
+Il fournit des lignes directrices pour gérer les projets de manière standardisée et efficace.
+
+=== Principes clés :
+
+* Intégration.
+* Périmètre.
+* Temps.
+* Coût.
+* Qualité.
+* Ressources humaines.
+* Communication.
+* Risques.
+* Approvisionnement.
+
+=== Objectifs : 
+
+PMBOK aide les organisations à mener à bien les projets IT tout en respectant les délais, les budgets, et les exigences de qualité.
+
+=== Avantages : 
+
+Amélioration de la gestion des projets, réduction des risques liés aux projets IT, et meilleure coordination des équipes.
+
+== Balanced Scorecard (BSC)
+
+=== Description : 
+
+Le BSC est un modèle de gestion stratégique qui aide les organisations à mesurer ...
+
+
+=== ...
+
+et à gérer les performances IT en se concentrant sur quatre perspectives : 
+[%step]
+* financière, 
+* client, 
+* processus internes, 
+* apprentissage et croissance.
+
+=== Principes clés :
+
+
+Traduire la vision et la stratégie en objectifs clairs.
+
+=== ...
+
+Aligner les actions et les objectifs IT avec la stratégie globale.
+
+=== ...
+
+Surveiller la performance à l’aide d’indicateurs clés de performance (KPI).
+
+=== ...
+
+=== Objectifs : 
+
+Le BSC vise à relier les actions IT aux résultats commerciaux en fournissant des outils pour mesurer l'efficacité des stratégies IT.
+
+=== Avantages : 
+
+* Amélioration de la performance IT, 
+* Meilleure prise de décision stratégique, 
+* Alignement clair entre les activités IT et les objectifs commerciaux.
+
+
+
+
+
+

@@ -1,0 +1,313 @@
+= Les parties prenantes dans la Gouvernance IT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Introduction
+
+Dans la gouvernance IT, la gestion des parties prenantes est essentielle pour garantir l’alignement entre la stratégie IT et les objectifs de l’organisation. 
+
+=== ...
+
+Chaque partie prenante joue un rôle déterminant dans la gestion, le contrôle et la mise en œuvre des technologies de l’information.
+
+
+== Conseil d’administration / Comité exécutif
+
+=== Rôle : 
+
+Le conseil d’administration ou le comité exécutif est le plus haut niveau de gouvernance de l’organisation. 
+
+=== ...
+
+Leur rôle consiste à superviser l’efficacité globale de la gouvernance IT et à s'assurer ...
+
+=== ...
+
+que la stratégie IT est alignée avec les objectifs stratégiques de l'entreprise.
+
+=== Responsabilités :
+
+Valider la stratégie IT à long terme et s'assurer de son alignement avec les objectifs globaux.
+
+=== ...
+
+Allouer des ressources aux initiatives IT.
+
+=== ...
+
+Surveiller les risques liés à l'IT et la cybersécurité.
+
+=== ...
+
+Recevoir des rapports réguliers sur les performances IT et la gestion des risques.
+
+=== ...
+
+Garantir la conformité aux réglementations.
+
+
+== Directeur des Systèmes d’Information (DSI / CIO)
+
+=== Rôle : 
+
+Le DSI est le principal responsable de la gestion et de la mise en œuvre de la stratégie IT. 
+
+=== ...
+
+Il agit comme un pont entre l'IT et la direction générale pour aligner les technologies avec les besoins métiers.
+
+=== Responsabilités :
+
+Développer et exécuter la stratégie IT en accord avec les objectifs organisationnels.
+
+=== ...
+
+Superviser l'implémentation des systèmes IT, des processus et des services.
+
+=== ...
+
+Gérer les ressources IT, y compris le personnel, les budgets, et les technologies.
+
+=== ...
+
+Assurer la gestion des risques IT et de la cybersécurité.
+
+=== ...
+
+Assurer la performance et la disponibilité des systèmes IT.
+
+=== ...
+
+Informer régulièrement la direction des progrès de la stratégie IT et des enjeux liés à la cybersécurité.
+
+=== ...
+
+
+== Responsable de la Sécurité des Systèmes d’Information (RSSI / CISO)
+
+=== Rôle : 
+
+Le RSSI est responsable de la sécurité des informations au sein de l'organisation. 
+
+=== ...
+
+Son rôle consiste à protéger les actifs critiques contre les menaces internes et externes.
+
+=== Responsabilités :
+
+Élaborer et mettre en œuvre la stratégie de cybersécurité en conformité avec les objectifs globaux.
+
+=== ...
+
+Identifier les risques de sécurité IT et définir des mesures de protection.
+
+
+=== ...
+
+Superviser la gestion des incidents de sécurité et la continuité des opérations.
+
+
+=== ...
+
+Sensibiliser et former les employés à la sécurité informatique.
+
+=== ...
+
+Collaborer avec le DSI pour s’assurer que la sécurité est intégrée dans tous les aspects de l’infrastructure IT.
+
+=== ...
+
+Assurer la conformité avec les normes de sécurité et les régulations.
+
+== Directeur financier (CFO)
+
+=== Rôle : 
+
+Le directeur financier s’assure que les investissements IT sont en ligne avec les objectifs financiers et que les dépenses IT sont optimisées.
+
+=== Responsabilités :
+
+Allouer des budgets aux projets IT en tenant compte des priorités stratégiques.
+
+=== ...
+
+Évaluer le retour sur investissement (ROI) des initiatives IT.
+
+=== ...
+
+Gérer les risques financiers liés aux projets IT.
+
+=== ...
+
+Suivre les dépenses et la rentabilité des investissements technologiques.
+
+=== ...
+
+Collaborer avec le DSI pour garantir que les projets IT sont alignés avec les objectifs financiers de l'entreprise.
+
+
+
+== Responsable des opérations IT
+
+=== Rôle : 
+
+Le responsable des opérations IT veille à ce que les systèmes et services IT fonctionnent de manière efficace et ininterrompue.
+
+
+=== Responsabilités :
+
+Gérer les infrastructures IT et garantir la disponibilité des services.
+
+=== ...
+
+Superviser la maintenance des systèmes et la gestion des incidents techniques.
+
+=== ...
+
+Optimiser les processus IT pour améliorer l'efficacité opérationnelle.
+
+=== ...
+
+Mettre en œuvre des mesures de sécurité opérationnelles.
+
+=== ...
+
+Collaborer avec les équipes de support pour résoudre les problèmes techniques rapidement.
+
+
+
+== Chef de projet IT
+
+=== Rôle : Le chef de projet IT est responsable de la gestion des projets technologiques. 
+
+=== ...
+
+Il veille à ce que les projets soient livrés dans les délais, dans le respect des budgets et des spécifications.
+
+
+=== Responsabilités :
+
+Planifier, exécuter et clôturer les projets IT en respectant les délais et les budgets.
+
+=== ...
+
+Coordonner les équipes et les ressources impliquées dans les projets IT.
+
+
+=== ...
+
+Surveiller les risques liés au projet et proposer des solutions pour les atténuer.
+
+=== ...
+
+S'assurer que les résultats du projet sont conformes aux attentes des parties prenantes.
+
+=== ...
+
+Communiquer régulièrement l’avancement du projet aux parties prenantes.
+
+
+== Utilisateurs métiers
+
+=== Rôle : 
+
+Les utilisateurs métiers, y compris les départements non-IT (RH, finance, ventes, etc.), sont des acteurs clés qui utilisent les systèmes IT dans leurs activités quotidiennes. 
+
+=== ...
+
+Ils fournissent des retours sur l’efficacité des outils technologiques et leurs besoins spécifiques.
+
+
+=== Responsabilités :
+
+Exprimer leurs besoins IT en termes de support des processus métiers.
+
+=== ...
+
+
+Participer aux tests et à l'adoption des nouveaux systèmes IT.
+
+=== ...
+
+Fournir des retours sur les systèmes en place pour améliorer leur efficacité.
+
+=== ...
+
+Travailler avec les équipes IT pour s’assurer que les outils technologiques répondent aux attentes fonctionnelles.
+
+=== ...
+
+Adopter les bonnes pratiques de sécurité et suivre les politiques de l’organisation.
+
+
+
+== Partenaires et fournisseurs
+
+=== Rôle : 
+
+Les fournisseurs de technologies et partenaires stratégiques jouent un rôle crucial ...
+
+=== ...
+
+dans la fourniture de solutions IT, de services cloud, d’infrastructures, et de support.
+
+=== Responsabilités :
+
+
+Fournir des technologies et services conformes aux exigences de l’organisation.
+
+=== ...
+
+Assurer un support continu et une maintenance des solutions déployées.
+
+=== ...
+
+Veiller à la sécurité et à la performance des systèmes sous leur gestion.
+
+=== ...
+
+Collaborer avec l’équipe IT pour résoudre les problèmes techniques.
+
+=== ...
+
+Respecter les SLA (Service Level Agreements) et garantir la disponibilité des services.
+
+
+
+== Comité de gouvernance IT
+
+=== Rôle : 
+
+Le comité de gouvernance IT, composé de dirigeants IT et de représentants d'autres départements, ...
+
+=== ...
+
+surveille les projets IT en cours, la gestion des risques, et l'alignement stratégique de l'IT avec les objectifs organisationnels.
+
+=== Responsabilités :
+
+Surveiller l’alignement des stratégies IT avec les objectifs de l'entreprise.
+
+=== ...
+
+Prendre des décisions clés sur l'allocation des ressources IT.
+
+=== ...
+
+Gérer les priorités des projets IT.
+
+=== ...
+
+Examiner les rapports sur la performance des systèmes IT et les indicateurs de sécurité.
+
+=== ...
+
+Assurer la conformité aux réglementations et politiques IT.
+
+
+
+
+
+
+

@@ -1,0 +1,287 @@
+= La Gouvernance IT Centralisée / Décentralisée
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Gouvernance IT Centralisée
+
+Dans un modèle de gouvernance IT centralisée, toutes les décisions, stratégies, et opérations IT sont contrôlées ...
+
+=== ...
+
+par un département IT central, souvent dirigé par un Directeur des Systèmes d'Information (DSI). 
+
+=== ...
+
+Les ressources technologiques sont gérées de manière uniforme et centralisée pour toute l'organisation.
+
+== Caractéristiques :
+
+=== Prise de décision centralisée : 
+
+Le département IT central prend toutes les décisions en matière de stratégie, d'achats, d'infrastructure et de politiques de sécurité.
+
+=== Standardisation : 
+
+Les systèmes, processus et technologies sont uniformisés à travers l’organisation, avec des politiques et des normes IT communes.
+
+=== Contrôle accru :
+
+Un contrôle strict des ressources IT est maintenu, garantissant la cohérence et la conformité aux normes et réglementations.
+
+
+=== Ressources partagées : 
+
+Les ressources technologiques sont partagées à travers l'organisation, réduisant la duplication des efforts et les coûts.
+
+=== Avantages :
+
+=== Économie d'échelle : 
+
+Les investissements technologiques peuvent être optimisés pour réduire les coûts grâce à l'achat de matériel ...
+
+=== ...
+
+et de logiciels en grande quantité.
+
+=== Uniformité : 
+
+La standardisation des systèmes garantit que toutes les parties de l'organisation utilisent les mêmes outils ...
+
+=== ...
+
+et technologies, facilitant la gestion et le support.
+
+=== Meilleure sécurité : 
+
+La gestion de la sécurité peut être centralisée, permettant des contrôles uniformes, une surveillance renforcée, ...
+
+=== ...
+
+et une meilleure protection contre les menaces.
+
+=== Gestion simplifiée : 
+
+Avec une gouvernance centralisée, il est plus facile de gérer et de superviser ...
+
+=== ...
+
+l'ensemble de l'infrastructure IT, de contrôler les changements et d'assurer la conformité aux politiques.
+
+== Inconvénients :
+
+=== Moins de flexibilité locale : 
+
+Les besoins spécifiques des différentes divisions ou départements peuvent être négligés ou mal desservis, ...
+
+
+=== ...
+
+
+ce qui peut nuire à l'agilité des unités locales.
+
+=== Ralentissement des processus : 
+
+Les processus de prise de décision peuvent être plus lents en raison de la centralisation des responsabilités et des autorisations.
+
+=== Risque de surcharge : 
+
+Le département IT central peut être surchargé avec de nombreuses demandes provenant de toute l'organisation, ...
+
+=== ...
+
+ce qui peut entraîner des retards dans la résolution des problèmes.
+
+
+== Gouvernance IT Décentralisée
+
+Dans un modèle décentralisé, chaque département ou unité d'affaires gère ses propres ressources IT, ...
+
+=== ...
+
+prenant des décisions indépendantes concernant les systèmes, les outils et les stratégies. 
+
+=== ...
+
+Il peut y avoir un cadre commun, mais chaque unité dispose d'une autonomie importante.
+
+== Caractéristiques :
+
+=== Prise de décision locale : 
+
+Les départements ou unités d’affaires sont responsables de la gestion de leurs propres besoins IT ...
+
+=== ...
+
+et peuvent prendre des décisions technologiques indépendantes.
+
+=== Personnalisation : 
+
+Chaque unité peut personnaliser ses systèmes et technologies ...
+
+=== ...
+
+en fonction de ses besoins spécifiques, souvent avec des processus et des outils différents.
+
+=== Autonomie accrue : 
+
+Les équipes locales ont plus de contrôle sur leurs propres projets IT ...
+
+=== ...
+
+
+et peuvent être plus réactives aux besoins changeants de leurs utilisateurs internes.
+
+=== Responsabilité distribuée : 
+
+Chaque unité est responsable de sa propre sécurité, de la gestion des risques, ...
+
+=== ...
+
+et de la maintenance des systèmes IT.
+
+== Avantages :
+
+=== Flexibilité : 
+
+Les départements peuvent adopter des technologies qui répondent le mieux à leurs besoins spécifiques, ...
+
+=== ...
+
+leur permettant d'être plus réactifs et de s'adapter rapidement.
+
+=== Agilité : 
+
+La prise de décision locale permet de répondre rapidement aux défis et opportunités locaux, ...
+
+=== ...
+
+avec une moindre dépendance à l'égard du département IT central.
+
+=== Innovation : 
+
+Les départements peuvent innover de manière indépendante, tester de nouvelles technologies, ...
+
+=== ...
+
+
+et adapter des solutions qui ne conviendraient peut-être pas à toute l'organisation.
+
+== Inconvénients :
+
+=== Manque de cohérence : 
+
+L'absence de standardisation entre les différentes unités peut créer une hétérogénéité des systèmes ...
+
+=== ...
+
+et des outils, ce qui rend la gestion IT globale plus complexe.
+
+=== Coûts élevés : 
+
+La duplication des efforts, des systèmes, et des outils peut entraîner des coûts plus élevés ...
+
+=== ...
+
+en raison de l'achat multiple de technologies et du manque d'économies d'échelle.
+
+=== Risque accru : 
+
+Les unités locales peuvent ne pas suivre des politiques de sécurité ou de conformité uniformes, ...
+
+=== ...
+
+augmentant ainsi le risque de failles de sécurité ou de non-conformité aux réglementations.
+
+
+=== Support technique difficile : 
+
+La diversité des technologies et des processus peut rendre plus difficile le support technique, ...
+
+=== ...
+
+avec des équipes IT locales nécessitant des compétences variées.
+
+
+== Gouvernance IT Hybride
+
+La gouvernance IT hybride combine des éléments des deux modèles précédents, permettant ...
+
+=== ...
+
+à l'organisation de bénéficier à la fois de la standardisation centralisée et de la flexibilité locale. 
+
+=== ...
+
+Dans ce modèle, certaines fonctions IT, comme la sécurité ou les achats stratégiques, peuvent être centralisées, ...
+
+=== ...
+
+tandis que d'autres, comme les projets spécifiques aux unités d'affaires, sont décentralisées.
+
+== Caractéristiques :
+
+=== Responsabilités partagées : 
+
+Certaines décisions clés, comme la sécurité et l'infrastructure de base, sont centralisées, ...
+
+=== ...
+
+tandis que les unités locales ont de l'autonomie sur d'autres aspects comme la sélection d'applications.
+
+
+=== Cohérence avec flexibilité : 
+
+Les politiques globales sont définies au niveau central, ...
+
+=== ...
+
+mais les départements peuvent adapter leurs outils en fonction de ces directives.
+
+
+=== Cadre commun avec autonomie locale : 
+
+Les systèmes de base (comme l'infrastructure réseau) sont gérés de manière centralisée, ...
+
+=== ...
+
+mais les applications spécifiques peuvent être choisies et gérées par chaque unité.
+
+== Avantages :
+
+=== Équilibre : 
+
+Ce modèle permet de bénéficier des avantages des deux approches, offrant à la fois uniformité, contrôle et flexibilité locale.
+
+=== Optimisation des coûts : 
+
+Les coûts peuvent être optimisés en centralisant certains achats ...
+
+=== ...
+
+tout en permettant aux départements d'acquérir des solutions spécifiques à leurs besoins.
+
+
+=== Adaptabilité : 
+
+L'organisation peut être agile tout en maintenant une gestion centralisée des risques et de la sécurité.
+
+== Inconvénients :
+
+=== Complexité de gestion : 
+
+Il peut être difficile de trouver un juste milieu entre centralisation et décentralisation, ...
+
+=== ...
+
+nécessitant une coordination accrue entre les équipes locales et centrales.
+
+=== Risques d’incohérences : 
+
+Si la coordination est mal gérée, cela peut entraîner une incohérence dans les politiques et les processus, ou une fragmentation des systèmes.
+
+
+
+
+
+

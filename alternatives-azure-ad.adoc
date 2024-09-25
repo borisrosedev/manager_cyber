@@ -1,0 +1,302 @@
+= Alternatives à Azure AD
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Okta
+
+=== Description : 
+
+Okta est une plateforme cloud leader pour la gestion des identités et des accès. 
+
+=== ...
+
+Elle offre des services d'authentification unique (SSO), d'authentification multifacteur (MFA), et de gestion des identités.
+
+=== Caractéristiques principales :
+
+* SSO pour des milliers d'applications SaaS.
+* Gestion des accès conditionnels pour renforcer la sécurité.
+
+=== ...
+
+* MFA avec plusieurs options de vérification (SMS, authentification via application, etc.).
+
+* Intégration avec des services cloud comme AWS, GCP, et des infrastructures locales.
+
+=== ...
+
+Okta Universal Directory pour la gestion centralisée des utilisateurs et des rôles.
+
+=== Cas d’utilisation : 
+
+Okta est souvent utilisé dans des environnements entièrement cloud ou hybrides, notamment pour la gestion des applications SaaS.
+
+
+== Ping Identity
+
+=== Description : 
+
+Ping Identity est une solution d'identité et d'accès qui prend en charge la gestion des identités hybrides. 
+
+=== ...
+
+Elle se concentre sur la sécurité, la gestion des utilisateurs et des accès dans les environnements complexes, ...
+
+=== ...
+
+souvent utilisés par les grandes entreprises.
+
+=== Caractéristiques principales :
+
+Authentification unique (SSO) pour les applications sur site et cloud.
+MFA avec intégration de divers facteurs d'authentification.
+
+=== ...
+
+Prise en charge de nombreux standards d'authentification (SAML, OAuth 2.0, OpenID Connect).
+
+=== PingFederate : Pour fédérer les identités à travers différentes applications et infrastructures.
+
+Solutions adaptées aux environnements sur site, cloud, et hybrides.
+
+=== Cas d’utilisation : 
+
+Ping Identity est souvent utilisé dans des environnements complexes nécessitant une flexibilité dans la gestion des identités ...
+
+=== ...
+
+et la fédération des utilisateurs entre plusieurs systèmes.
+
+== Google Cloud Identity
+
+=== Description : 
+
+Google Cloud Identity est une solution de gestion des identités proposée par Google. 
+
+=== ...
+
+Elle offre des fonctionnalités de gestion des utilisateurs et des appareils, en particulier ...
+
+=== ...
+
+pour les entreprises utilisant l'écosystème Google Workspace (anciennement G Suite) ou Google Cloud Platform (GCP).
+
+=== Caractéristiques principales :
+
+SSO et gestion des identités pour des applications SaaS et des ressources Google.
+
+=== ...
+
+MFA et gestion des politiques d'accès conditionnel.
+
+=== ...
+
+Gestion centralisée des appareils, avec des outils pour contrôler les appareils BYOD.
+
+=== ...
+
+Prise en charge des normes SAML et OpenID Connect pour l'intégration avec d'autres services.
+
+=== ...
+
+Intégration fluide avec Google Workspace et GCP.
+
+=== Cas d’utilisation : 
+
+Google Cloud Identity est souvent adopté par les entreprises utilisant l'écosystème Google ...
+
+
+=== ...
+
+
+et recherchant une gestion centralisée des identités avec une forte intégration Google Cloud.
+
+
+== OneLogin
+
+=== Description : 
+
+OneLogin est une plateforme de gestion des identités et des accès qui met l’accent sur la simplicité, la sécurité, et l’intégration avec une large gamme d’applications. 
+
+=== ...
+
+Elle propose des services de SSO, MFA, et de gestion des accès conditionnels.
+
+
+=== Caractéristiques principales :
+
+* SSO pour des milliers d'applications, y compris des applications SaaS populaires.
+
+=== ...
+
+* MFA et sécurité renforcée avec des politiques d'accès dynamique.
+
+=== ...
+
+* Intégration avec des solutions cloud et sur site.
+
+=== ...
+
+* Gestion des accès basée sur les rôles (RBAC).
+
+=== ...
+
+Automatisation des flux de travail pour la gestion des identités.
+
+=== Cas d’utilisation : 
+
+OneLogin est bien adapté pour les entreprises qui cherchent une solution facile à utiliser ...
+
+=== ...
+
+et à déployer pour la gestion des identités dans des environnements cloud-first ou hybrides.
+
+
+== JumpCloud
+
+=== Description : 
+
+JumpCloud propose une solution de gestion des identités "Directory-as-a-Service" qui fonctionne comme un annuaire dans le cloud pour les environnements hybrides. 
+
+=== ...
+
+Il peut remplacer un Active Directory traditionnel ou fonctionner en parallèle.
+
+=== Caractéristiques principales :
+
+Gestion des identités, des appareils, et des accès à partir d’un seul endroit.
+
+=== ...
+
+Prise en charge de SSO pour les applications SaaS et sur site.
+
+=== ...
+
+Authentification multifactorielle (MFA) avec intégration directe.
+
+=== ...
+
+LDAP-as-a-Service et RADIUS pour l’authentification réseau.
+
+=== ...
+
+Gestion des appareils (Windows, Mac, Linux) avec des politiques de sécurité.
+
+=== Cas d’utilisation : 
+
+JumpCloud est souvent choisi par des entreprises cherchant une alternative à Active Directory ou souhaitant une solution unifiée pour la gestion des identités et des appareils dans des environnements multi-OS.
+
+
+
+== IBM Security Verify
+
+=== Description : 
+
+IBM Security Verify est une plateforme de gestion des identités et des accès qui combine SSO, MFA, et IAM ...
+
+=== ...
+
+dans une solution cloud hybride. 
+
+=== ...
+
+Elle met l'accent sur la sécurité et la gestion des identités à l'échelle de l'entreprise.
+
+=== Caractéristiques principales :
+
+SSO et MFA pour des applications cloud et sur site.
+
+=== ...
+
+Gestion des risques liés aux identités et détection des anomalies dans les connexions.
+
+=== ...
+
+Accès conditionnel basé sur les risques et les comportements.
+
+=== ...
+
+Intégration fluide avec les infrastructures locales et les applications cloud.
+
+=== Cas d’utilisation : 
+
+IBM Security Verify est adapté aux grandes entreprises qui ont des besoins complexes ...
+
+=== ...
+
+en matière de sécurité des identités et des accès dans des environnements mixtes ou multi-cloud.
+
+
+== Centrify (ThycoticCentrify)
+
+=== Description : 
+
+Centrify, maintenant fusionné avec Thycotic pour former ThycoticCentrify, est une solution spécialisée dans la gestion des accès à privilèges (Privileged Access Management, PAM) ainsi que la gestion des identités et des accès.
+
+=== Caractéristiques principales :
+
+Gestion des accès à privilèges pour les comptes administrateurs et les systèmes critiques.
+
+=== ...
+
+SSO et gestion des identités pour les utilisateurs standards.
+
+=== ...
+
+MFA et contrôle d’accès conditionnel pour les comptes à privilèges.
+
+=== ...
+
+Intégration avec des environnements cloud, sur site, et hybrides.
+
+=== ...
+
+Surveillance des sessions pour les comptes à privilèges.
+
+=== Cas d’utilisation : 
+
+ThycoticCentrify est couramment utilisé dans les entreprises qui doivent gérer de manière rigoureuse les accès à ...
+
+=== ...
+
+privilèges sur leurs infrastructures critiques, notamment dans des environnements multi-cloud ou hybrides.
+
+
+== Auth0 (par Okta)
+
+=== Description : 
+
+Auth0, acquis par Okta, est une plateforme d'authentification et de gestion des identités conçue pour les développeurs. 
+
+=== ...
+
+Elle permet aux entreprises de mettre en place une gestion des identités personnalisée dans leurs propres applications.
+
+=== Caractéristiques principales :
+
+Authentification SSO avec support des protocoles OAuth 2.0, OpenID Connect, et SAML.
+
+=== ...
+
+MFA personnalisable et gestion des politiques d'accès.
+
+=== ...
+
+Authentification sociale (Google, Facebook, etc.) et gestion des identités externes.
+
+=== ...
+
+API puissantes pour l'intégration dans des applications personnalisées.
+
+=== ...
+
+Prise en charge des intégrations hybrides et multi-cloud.
+
+=== Cas d’utilisation : 
+
+Auth0 est particulièrement adapté aux entreprises et développeurs qui souhaitent une solution flexible et ...
+
+=== ...
+
+personnalisée pour la gestion des identités dans leurs propres applications.

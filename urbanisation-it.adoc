@@ -41,7 +41,12 @@ de rendre les systèmes plus évolutifs et flexibles, en adaptant les infrastruc
 
 === Réduire les redondances et les coûts : 
 
-En rationalisant les systèmes et en évitant la duplication des fonctionnalités ou des données, l'urbanisation IT permet de réduire les coûts de maintenance, de développement et d'exploitation.
+En rationalisant les systèmes et en évitant la duplication des fonctionnalités ou des données, ...
+
+=== ...
+
+
+l'urbanisation IT permet de réduire les coûts de maintenance, de développement et d'exploitation.
 
 === Améliorer l'agilité et la réactivité : 
 
@@ -71,6 +76,9 @@ Les décisions d'urbanisation IT doivent être alignées sur la stratégie globa
 === ...
 
 Les systèmes IT doivent soutenir les objectifs stratégiques et les priorités business, en permettant:
+
+=== ...
+
 [%step]
 * l'innovation, 
 * la compétitivité 
@@ -91,7 +99,16 @@ Une partie essentielle de l'urbanisation IT concerne la gestion des données.
 
 === ...
 
-Elle implique de s'assurer que les données sont centralisées ou interconnectées de manière à être accessibles et partagées à travers l'organisation, tout en maintenant:
+Elle implique de s'assurer que les données sont centralisées ou interconnectées ...
+
+
+=== ...
+
+
+de manière à être accessibles et partagées à travers l'organisation, tout en maintenant:
+
+=== ...
+
 [%step]
 * leur intégrité, 
 * leur qualité
@@ -150,6 +167,9 @@ Cela permet d'identifier:
 === Définition d'un cadre d'urbanisation :
 
 Sur la base des besoins stratégiques de l'entreprise, **un cadre d'urbanisation** est défini, précisant:
+
+=== ...
+
 [%step]
 * les principes directeurs, 
 * les objectifs
@@ -218,11 +238,19 @@ Cela inclut la gestion des priorités, la validation des choix technologiques et
 
 == Mise en œuvre des transformations :
 
-Sur la base des principes d'urbanisation, des projets de transformation IT peuvent être lancés pour adapter le système d'information à la nouvelle architecture souhaitée. 
+Sur la base des principes d'urbanisation, des projets de transformation IT peuvent ...
 
 === ...
 
-Ces projets peuvent inclure la migration vers de nouveaux systèmes, la refonte des applications existantes, ou la mise en place d'interfaces d'intégration.
+être lancés pour adapter le système d'information à la nouvelle architecture souhaitée. 
+
+=== ...
+
+Ces projets peuvent inclure la migration vers de nouveaux systèmes, la refonte des applications existantes, ...
+
+=== ...
+
+ou la mise en place d'interfaces d'intégration.
 
 === Évaluation et amélioration continue :
 
@@ -241,7 +269,11 @@ les objectifs de l’entreprise et de l’ajuster en fonction des évolutions te
 
 === Meilleure cohérence et intégration :
 
-L'urbanisation permet d’éviter les systèmes en silo et d'assurer une meilleure intégration des processus et des données à travers les différentes fonctions de l'entreprise.
+L'urbanisation permet d’éviter les systèmes en silo et d'assurer une meilleure intégration des processus ...
+
+=== ...
+
+et des données à travers les différentes fonctions de l'entreprise.
 
 === Réduction des coûts IT :
 
@@ -281,7 +313,11 @@ l’urbanisation améliore la qualité et la fiabilité des données.
 
 === Réduction des délais de mise en œuvre :
 
-Les projets IT peuvent être mis en œuvre plus rapidement, car l'urbanisation permet de **réutiliser** des blocs fonctionnels existants et d'éviter la refonte complète de systèmes.
+Les projets IT peuvent être mis en œuvre plus rapidement, car l'urbanisation permet ...
+
+=== ...
+
+de **réutiliser** des blocs fonctionnels existants et d'éviter la refonte complète de systèmes.
 
 
 
@@ -291,15 +327,27 @@ Les projets IT peuvent être mis en œuvre plus rapidement, car l'urbanisation p
 
 === Complexité :
 
-Urbaniser un système d'information existant, surtout dans une grande entreprise, peut être très complexe et nécessite une **planification rigoureuse** et des ressources importantes.
+Urbaniser un système d'information existant, surtout dans une grande entreprise, ...
+
+=== ...
+
+peut être très complexe et nécessite une **planification rigoureuse** et des ressources importantes.
 
 === Résistance au changement :
 
-Les employés et les départements peuvent résister à l'urbanisation IT, surtout s’ils sont habitués à utiliser des systèmes spécifiques ou s’ils craignent une perte de contrôle.
+Les employés et les départements peuvent résister à l'urbanisation IT, surtout ...
+
+=== ...
+
+s’ils sont habitués à utiliser des systèmes spécifiques ou s’ils craignent une perte de contrôle.
 
 === Coût initial élevé :
 
-Bien que l'urbanisation puisse générer des économies à long terme, elle nécessite souvent des **investissements initiaux importants ** en termes de technologies, de formation et de gestion du changement.
+Bien que l'urbanisation puisse générer des économies à long terme, elle nécessite ...
+
+=== ...
+
+souvent des **investissements initiaux importants ** en termes de technologies, de formation et de gestion du changement.
 
 
 

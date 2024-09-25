@@ -1,0 +1,319 @@
+= Azure Active Directory
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+== Qu'est-ce qu'Azure Active Directory (Azure AD) ?
+
+Azure Active Directory (Azure AD) est un service de gestion des identités et des accès dans le cloud proposé par Microsoft. 
+
+=== ...
+
+Il permet de gérer les identités des utilisateurs et de contrôler l’accès aux applications et services en toute sécurité. 
+
+=== ...
+
+Azure AD est principalement utilisé pour l'authentification et la gestion des identités dans les environnements cloud, ...
+
+=== ...
+
+mais il peut également être intégré aux infrastructures sur site pour une gestion hybride.
+
+== Objectif principal d'Azure AD
+
+Azure AD sert à :
+
+* Gérer les identités (comptes utilisateurs, groupes, rôles).
+
+=== ...
+
+* Contrôler l’accès aux ressources cloud et aux applications sur site.
+
+=== ...
+
+* Faciliter l’authentification unique (Single Sign-On, SSO) pour des applications  ...
+
+=== ...
+
+et services multiples, tels que Microsoft 365, des applications SaaS tierces, ou des applications d’entreprise personnalisées.
+
+=== ...
+
+* Renforcer la sécurité des accès via des fonctionnalités avancées telles que l’authentification multifacteur (MFA), ...
+
+=== ...
+
+les politiques de contrôle des accès conditionnels, et la gestion des accès basés sur les rôles (RBAC).
+
+
+== Fonctionnement d'Azure AD
+
+=== Authentification et gestion des identités
+
+Azure AD gère la manière dont les utilisateurs et les services s'authentifient. 
+
+=== ...
+
+Il prend en charge plusieurs protocoles d’authentification standardisés tels que :
+
+OAuth 2.0 et OpenID Connect pour l’authentification des utilisateurs dans les applications modernes.
+
+=== ...
+
+SAML 2.0 pour l’authentification des applications plus anciennes.
+
+=== ...
+
+WS-Federation pour les systèmes hérités.
+
+=== ...
+
+Lorsqu’un utilisateur tente de se connecter à une application, Azure AD vérifie ses informations d’identification (comme un nom d'utilisateur et un mot de passe, ou des facteurs supplémentaires dans le cas d'une MFA). 
+
+
+=== ...
+
+Une fois authentifié, Azure AD délivre un jeton d'accès qui permet à l’utilisateur de se connecter aux ressources et services autorisés.
+
+== Annuaire basé sur le cloud
+
+Azure AD agit comme un annuaire centralisé pour stocker des informations sur les utilisateurs, les groupes, et les appareils. 
+
+=== ...
+
+Les organisations peuvent créer et gérer des comptes d'utilisateurs, des groupes pour regrouper ces utilisateurs, ...
+
+=== ...
+
+et assigner des rôles qui définissent les droits et permissions d'accès aux ressources.
+
+
+== Single Sign-On (SSO)
+
+L'authentification unique (SSO) permet aux utilisateurs de se connecter une seule fois  ...
+
+=== ...
+
+et d'accéder à plusieurs applications ou services sans avoir à ressaisir leurs informations d’identification pour chaque service.
+
+=== ...
+
+Azure AD prend en charge le SSO pour les applications cloud (Microsoft 365, Salesforce, Dropbox) ...
+
+=== ...
+
+ainsi que pour des applications locales ou personnalisées qui peuvent être intégrées via Azure AD Connect ou des connecteurs d'applications.
+
+
+== Hybrid Identity (identité hybride)
+
+Pour les organisations utilisant Active Directory (AD) sur site, Azure AD permet de synchroniser ...
+
+=== ...
+
+les comptes utilisateurs entre l’infrastructure locale et le cloud grâce à des outils comme Azure AD Connect. 
+
+=== ...
+
+Cela permet aux utilisateurs d'utiliser les mêmes identifiants pour se connecter à leurs ressources sur site et à des services cloud.
+
+=== ...
+
+Azure AD Connect est un service qui synchronise les objets (utilisateurs, groupes, etc.) de votre Active Directory local avec Azure AD, ...
+
+=== ...
+
+créant ainsi une infrastructure d'identité hybride.
+
+
+== Accès conditionnel
+
+Azure AD propose des politiques d'accès conditionnel qui permettent de contrôler les accès en fonction de différents critères, tels que :
+
+=== ...
+
+La localisation géographique de l'utilisateur.
+
+=== ...
+
+Le type d'appareil utilisé (par exemple, accès restreint à partir d'appareils non gérés).
+
+=== ...
+
+Le comportement de l'utilisateur (par exemple, bloquer l'accès si des tentatives de connexion anormales sont détectées).
+
+=== ...
+
+La sensibilité des ressources demandées.
+
+=== ...
+
+Les règles d'accès conditionnel sont très utiles pour renforcer la sécurité tout en assurant une expérience utilisateur fluide.
+
+== Authentification multifactorielle (MFA)
+
+Azure AD permet d’ajouter une couche de sécurité supplémentaire via l’authentification multifactorielle (MFA). 
+
+=== ...
+
+Au lieu de se reposer uniquement sur un mot de passe, les utilisateurs doivent également fournir un second facteur d’authentification, ...
+
+=== ...
+
+comme un code envoyé à un téléphone mobile ou une application d'authentification (par exemple, Microsoft Authenticator).
+
+
+== Gestion des accès basés sur les rôles (RBAC)
+
+Azure AD prend en charge la gestion des accès basée sur les rôles (Role-Based Access Control, RBAC). 
+
+=== ...
+
+Cela signifie que les administrateurs peuvent définir des rôles spécifiques (par exemple, administrateur global, lecteur, contributeur) ...
+
+=== ...
+
+et assigner ces rôles à des utilisateurs ou groupes, leur octroyant ainsi des permissions spécifiques pour les ressources Azure ou les applications.
+
+
+== Gestion des identités externes
+
+Azure AD permet de gérer des identités externes ou des utilisateurs invités. 
+
+=== ...
+
+Par exemple, une entreprise peut inviter des partenaires ou des clients à accéder à des ressources spécifiques ...
+
+=== ...
+
+sans les intégrer dans l'annuaire interne, tout en conservant des contrôles de sécurité robustes.
+
+
+
+== Surveillance et gestion des menaces
+
+Azure AD dispose d'outils de surveillance des identités pour détecter les activités suspectes, ...
+
+=== ...
+
+telles que des tentatives de connexion anormales ou des comportements inhabituels. 
+
+=== ...
+
+Il offre également des fonctionnalités de protection des identités pour empêcher les attaques par usurpation d'identité, ...
+
+=== ...
+
+comme les tentatives de hameçonnage ou les attaques par force brute.
+
+
+=== ...
+
+Azure AD Identity Protection utilise des algorithmes avancés pour surveiller et ...
+
+=== ...
+
+signaler les comportements suspects liés aux utilisateurs ou aux appareils.
+
+
+== Cas d’utilisation d'Azure AD
+
+=== Gestion des identités dans le cloud : 
+
+Azure AD est utilisé par des entreprises pour gérer les comptes utilisateurs et leurs accès ...
+
+=== ...
+
+à des services cloud comme Microsoft 365 (anciennement Office 365), Teams, OneDrive, etc.
+
+=== Accès aux applications SaaS : 
+
+Azure AD simplifie l'accès à des centaines d'applications SaaS comme Salesforce, Dropbox, ...
+
+=== ...
+
+ou ServiceNow en utilisant l'authentification unique (SSO), réduisant ainsi la gestion des mots de passe et augmentant la sécurité.
+
+=== Connexion des applications sur site au cloud : 
+
+Avec Azure AD Connect, les entreprises qui possèdent des environnements hybrides peuvent connecter leurs Active Directory locaux à Azure AD ...
+
+=== ...
+
+pour offrir une expérience de gestion unifiée des identités et des accès.
+
+=== Protection contre les menaces : 
+
+Azure AD aide à protéger contre les attaques par hameçonnage (phishing) et autres menaces ...
+
+=== ...
+
+en utilisant des fonctionnalités avancées comme l’authentification multifactorielle (MFA) ...
+
+
+=== ...
+
+
+et la surveillance des menaces en temps réel.
+
+=== Partage sécurisé avec des partenaires : 
+
+Azure AD facilite la collaboration sécurisée avec des partenaires externes 
+
+=== ...
+
+et des clients via des comptes B2B (Business to Business), ...
+
+=== ...
+
+permettant un accès contrôlé aux applications de l'entreprise.
+
+== Accès aux ressources Microsoft Azure : 
+
+Pour les entreprises utilisant Azure comme plateforme cloud, Azure AD est utilisé ...
+
+=== ...
+
+pour gérer les autorisations et les accès aux ressources (machines virtuelles, bases de données, réseaux, etc.) hébergées dans Azure.
+
+
+== Plans et versions d'Azure AD
+
+Azure AD propose différents plans, avec des fonctionnalités variables selon les besoins de l'organisation :
+
+=== Azure AD Free : 
+
+Offre des fonctionnalités de base telles que la gestion des identités, ...
+
+=== ...
+
+l'authentification unique pour quelques applications et des fonctionnalités de sécurité de base.
+
+=== Azure AD Office 365 Apps : 
+
+Conçu pour les entreprises utilisant Microsoft 365, ...
+
+=== ...
+
+il propose des fonctionnalités supplémentaires telles que le SSO et la synchronisation avec un Active Directory local.
+
+=== Azure AD Premium P1 : 
+
+Inclut des fonctionnalités avancées comme l'accès conditionnel, ...
+
+=== ...
+
+la gestion des identités hybrides, et des fonctionnalités plus riches pour la gestion des accès aux applications.
+
+=== Azure AD Premium P2 : 
+
+Offre toutes les fonctionnalités du plan Premium P1, avec en plus des services de sécurité avancés comme Azure AD Identity Protection 
+
+=== ...
+
+et Privileged Identity Management (PIM), qui permet de gérer les accès à des privilèges de manière temporaire.
+
+
+
+
+

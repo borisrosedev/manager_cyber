@@ -26,18 +26,18 @@
 
 == Les fondations de la gouvernance IT 
 
-* Principes de base de la gouvernance IT
+* link:./principes-gouvernance-it.html[Principes de base de la gouvernance IT]
 * Responsabilité, stratégie, et performance.
 
 === ...
 
-* Gestion des parties prenantes : rôles et responsabilités.
-* Modèles de gouvernance IT
+* link:./parties-prenantes-gouv-it.html[Gestion des parties prenantes : rôles et responsabilités]
+* link:./modeles-gouv-it.html[Modèles de gouvernance IT]
 
 === ...
 
-* Centralisé vs décentralisé.
-* Gouvernance hybride : équilibre entre centralisation et autonomie locale.
+* link:./gouv-it-centralise-decentralise.html[Centralisé vs décentralisé]
+* link:./gouv-it-hybride.html[Gouvernance hybride : équilibre entre centralisation et autonomie locale]
 
 === ...
 
@@ -48,8 +48,8 @@
 
 === Gestion des risques IT et cybersécurité
 
-* Processus de gestion des risques IT.
-* Identification, évaluation et priorisation des risques.
+* link:./processus-gestion-risques-it.html[Processus de gestion des risques IT]
+
 
 == Les principaux cadres de gestion des risques
 
@@ -90,7 +90,7 @@
 
 === ...
 
-* Audit et conformité IT
+* link:./audits-gouv-it.html[Audit et conformité IT]
 
 == Rôle des audits dans la gouvernance IT.
 
@@ -111,7 +111,7 @@
 === ...
 
 * Accompagner le changement dans les systèmes IT.
-* Approche agile dans la gouvernance IT.
+* link:./agile-gouv-it.html[Approche agile dans la gouvernance IT].
 
 === ...
 
@@ -124,7 +124,7 @@
 * link:./bonnes-pratiques-cybersecurite.html[Les bonnes pratiques de gouvernance IT]
 * Mise en œuvre des contrôles de sécurité IT
 * Processus de gouvernance pour gérer les contrôles de sécurité.
-* Mise en place de contrôles d’accès, de protection des données et de surveillance.
+* link:./controle-access-protection-donnees-surveillance.html[Mise en place de contrôles d’accès, de protection des données et de surveillance]
 
 
 === ...
@@ -140,7 +140,7 @@
 === ...
 
 * Formation et développement des employés.
-* Promotion d’une culture de la sécurité au sein des organisations.
+* link:./promo-culture-securite.html[Promotion d’une culture de la sécurité au sein des organisations]
 
 
 == En savoir plus
@@ -154,7 +154,6 @@
 === CMDB
 
 * link:./cmdb.html[CMDB]
-
 
 === ERP
 
@@ -173,7 +172,11 @@
 
 * link:./dmz.html[DMZ]
 
+=== Active Directory
 
+* link:./active-directory.html[Active Directory]
+* link:./azure-ad.html[Azure AD]
+* link:./alternatives-azure-ad.html[D'autres solutions que Azure AD]
 
 
 

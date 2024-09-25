@@ -67,7 +67,12 @@ Elle aide à renforcer les mesures de sécurité qu'ils mettent en place et à c
 
 === Clients de services cloud : 
 
-Elle permet aux clients de comprendre quels contrôles de sécurité doivent être en place et où ils se situent dans la chaîne de responsabilité de la sécurité.
+Elle permet aux clients de comprendre quels contrôles de sécurité doivent être en place ...
+
+=== ...
+
+
+et où ils se situent dans la chaîne de responsabilité de la sécurité.
 
 == ISO/IEC 27018 – Protection des données personnelles dans le cloud
 
@@ -90,7 +95,11 @@ S’assurer que les données personnelles sont traitées et stockées conformém
 
 === Conformité avec les lois sur la protection des données : 
 
-Garantir que les services de cloud respectent les lois et règlements sur la confidentialité des données, comme le RGPD (Règlement Général sur la Protection des Données) en Europe.
+Garantir que les services de cloud respectent les lois et règlements sur la confidentialité des données, ...
+
+=== ...
+
+comme le RGPD (Règlement Général sur la Protection des Données) en Europe.
 
 === Établir un cadre de gouvernance sur la protection des données : 
 
@@ -112,15 +121,28 @@ Les fournisseurs de services cloud doivent être transparents sur la manière do
 
 === Gestion des données personnelles : 
 
-La norme impose des contrôles sur la gestion du cycle de vie des données personnelles, y compris la suppression sécurisée des données lorsque le contrat est terminé.
+La norme impose des contrôles sur la gestion du cycle de vie des données personnelles, ...
+
+=== ...
+
+y compris la suppression sécurisée des données lorsque le contrat est terminé.
 
 === Accès aux données personnelles : 
 
-Seuls les utilisateurs autorisés doivent avoir accès aux informations personnelles. Des mesures de contrôle d’accès robustes et un suivi des accès sont nécessaires.
+Seuls les utilisateurs autorisés doivent avoir accès aux informations personnelles.
+
+=== ...
+
+Des mesures de contrôle d’accès robustes et un suivi des accès sont nécessaires.
 
 === Sécurité des données personnelles : 
 
-Le chiffrement, la pseudonymisation et d’autres techniques doivent être appliqués pour protéger les données personnelles dans les environnements cloud.
+Le chiffrement, la pseudonymisation et d’autres techniques doivent être appliqués ...
+
+=== ...
+
+
+pour protéger les données personnelles dans les environnements cloud.
 
 == Utilité pour les entreprises :
 
@@ -130,14 +152,26 @@ ISO 27018 leur permet de se conformer aux exigences de protection des données p
 
 === Clients de services cloud : 
 
-Les clients peuvent s'assurer que leurs données personnelles sont protégées selon les normes internationales et que leurs fournisseurs cloud respectent les lois sur la confidentialité.
+Les clients peuvent s'assurer que leurs données personnelles sont protégées selon les normes internationales ...
+
+=== ...
+
+et que leurs fournisseurs cloud respectent les lois sur la confidentialité.
 
 
 == Comparaison et relation entre ISO 27017 et ISO 27018
 
 
-ISO 27017 se concentre sur la sécurité des services cloud en général, couvrant un large éventail de pratiques de sécurité applicables à l'infrastructure, aux services et aux réseaux du cloud.
+ISO 27017 se concentre sur la sécurité des services cloud en général, couvrant ...
 
 === ...
 
-ISO 27018 est plus spécialisée, ciblant spécifiquement la protection des données personnelles dans les environnements de cloud public, en conformité avec les lois de confidentialité.
+un large éventail de pratiques de sécurité applicables à l'infrastructure, aux services et aux réseaux du cloud.
+
+=== ...
+
+ISO 27018 est plus spécialisée, ciblant spécifiquement la protection des données personnelles ...
+
+=== ...
+
+dans les environnements de cloud public, en conformité avec les lois de confidentialité.

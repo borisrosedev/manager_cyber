@@ -1,0 +1,263 @@
+= La gestion des risques IT
+:revealjs_theme: beige
+:source-highlighter: highlight.js
+:icons: font
+
+
+== Introduction
+La gestion des risques IT est un processus essentiel qui permet à une organisation de protéger ses actifs informatiques tout en garantissant la continuité de ses activités. 
+
+=== ...
+
+Ce processus suit une approche systématique en trois étapes principales : l’identification, l’évaluation, et la priorisation des risques. Voici comment chaque étape s'articule :
+
+
+== Identification des risques IT
+
+L’identification des risques est la première étape du processus de gestion des risques. 
+
+=== ...
+
+Elle consiste à repérer toutes les menaces potentielles qui pourraient affecter les systèmes d'information ...
+
+=== ...
+
+et les actifs technologiques de l'organisation.
+
+== Méthodologie :
+
+=== Évaluer les actifs critiques : 
+
+Identifier les actifs informatiques qui sont essentiels au fonctionnement de l'entreprise, ...
+
+=== ...
+
+tels que les données sensibles, les systèmes de gestion, les serveurs, les réseaux, et les logiciels. 
+
+=== ...
+
+Cette étape inclut aussi bien les ressources matérielles (matériel informatique, réseaux) ...
+
+=== ...
+
+que les ressources immatérielles (données, informations, propriété intellectuelle).
+
+
+=== Identifier les menaces : 
+
+Repérer les menaces potentielles, telles que :
+[%step]
+* Les cyberattaques (malware, phishing, ransomwares).
+
+* Les erreurs humaines (faute de configuration, divulgation involontaire de données).
+
+=== ...
+
+[%step]
+* Les pannes matérielles (défaillance de serveurs, coupures réseau).
+* Les catastrophes naturelles (inondations, incendies).
+
+=== ...
+
+[%step]
+* Les vulnérabilités logicielles (failles de sécurité dans les logiciels utilisés).
+
+
+=== Analyser les vecteurs d'attaque : 
+
+Identifier comment chaque menace pourrait exploiter une vulnérabilité dans les systèmes IT. 
+
+=== ...
+
+Cela inclut la cartographie des vulnérabilités dans les infrastructures et les systèmes.
+
+=== Évaluer les environnements internes et externes : 
+
+Prendre en compte les facteurs internes (politiques de sécurité, configuration des systèmes) ...
+
+=== ...
+
+et externes (conformité réglementaire, tendances de l’industrie) qui pourraient influencer les risques.
+
+== Outils utilisés :
+
+=== Analyse de l'impact sur les affaires (BIA) : 
+
+Cet outil permet de comprendre l’impact d’un incident sur les opérations de l’entreprise.
+
+=== Inventaire des actifs : 
+
+Une liste exhaustive des actifs IT et de leur importance pour les processus métiers permet de mieux cibler les menaces.
+
+=== Outils de surveillance et de détection de vulnérabilités : 
+
+Logiciels spécialisés pour identifier les failles de sécurité dans les systèmes et les réseaux.
+
+=== Résultat :
+
+Une liste complète des risques potentiels qui pourraient affecter les systèmes IT de l'organisation.
+
+
+== Évaluation des risques IT
+
+Une fois les risques identifiés, l'étape suivante consiste à les évaluer pour mesurer leur gravité potentielle. 
+
+=== ...
+
+L'évaluation des risques repose sur deux critères principaux : 
+[%step]
+* la probabilité d’occurrence
+* l'impact potentiel sur l'organisation.
+
+=== Méthodologie :
+
+=== Probabilité d’occurrence : 
+
+Déterminer la fréquence à laquelle un risque pourrait se matérialiser. 
+
+=== ...
+
+Par exemple, un phishing peut être plus fréquent qu'une attaque par DDoS, mais l’impact potentiel pourrait être moindre.
+
+=== ...
+
+Les catégories de probabilité peuvent être qualitatives (par exemple, haute, moyenne, basse) ou quantitatives (pourcentage ou fréquence d'occurrence).
+
+
+=== Impact : 
+
+Évaluer les conséquences financières, opérationnelles, légales et réputationnelles si un risque se concrétise. 
+
+=== ...
+
+L’impact peut inclure des éléments tels que :
+
+[%step]
+* Pertes financières (coût des réparations, interruptions de services).
+* Perte de données ou d'informations sensibles...
+
+=== ...
+
+[%step]
+* Non-conformité aux réglementations (amendes, litiges).
+* Atteinte à la réputation de l’organisation.
+
+
+=== Calculer la gravité du risque : 
+
+En combinant la probabilité et l'impact, on peut déterminer la gravité de chaque risque. 
+
+=== ...
+
+Par exemple, un risque très probable avec un impact faible sera évalué différemment d’un risque rare mais potentiellement catastrophique.
+
+
+== Méthode quantitative ou qualitative :
+
+=== Méthode qualitative : 
+
+Les risques sont classés selon des catégories (élevé, moyen, faible), souvent basée sur des scénarios hypothétiques et des opinions d'experts.
+
+=== Méthode quantitative : 
+
+Les risques sont quantifiés en termes de valeur monétaire attendue (VME) ou de période de rétablissement estimée. 
+
+=== ...
+
+Cela implique l’utilisation de métriques, de simulations et de calculs statistiques.
+
+== Outils utilisés :
+
+=== Matrices de risques : 
+
+Un tableau à double entrée qui évalue les risques en fonction de la probabilité et de l’impact pour identifier leur niveau de gravité.
+
+
+=== Analyse quantitative des risques (AQR) : 
+
+Utilisation de modèles mathématiques pour évaluer et classer les risques en termes financiers.
+
+=== FAIR (Factor Analysis of Information Risk) : 
+
+Un modèle qui permet de quantifier les risques IT en mesurant la probabilité d'une menace et les pertes associées.
+
+=== Résultat :
+
+Un classement des risques basé sur leur probabilité et leur impact. Cela permet ....
+
+=== ...
+
+de voir quels risques nécessitent une attention immédiate et lesquels peuvent être gérés de manière proactive sur le long terme.
+
+
+
+== Priorisation des risques IT
+
+La priorisation consiste à déterminer lesquels des risques identifiés et évalués doivent être traités en priorité. 
+
+=== ...
+
+Les organisations n'ont souvent pas les ressources nécessaires pour traiter tous les risques immédiatement, ...
+
+
+=== ...
+
+il est donc essentiel de prioriser les risques selon leur criticité.
+
+=== Méthodologie :
+
+=== Analyser les risques critiques : 
+
+Identifier les risques qui présentent à la fois un impact élevé et une probabilité élevée. 
+
+=== ...
+
+Ces risques doivent être traités en priorité car ils représentent la plus grande menace pour l’organisation.
+
+=== Allouer les ressources : 
+
+Déterminer les ressources nécessaires (financières, humaines, technologiques) pour mitiger chaque risque en fonction de sa priorité.
+
+=== Mise en œuvre de mesures de contrôle : 
+
+Choisir parmi les options suivantes pour chaque risque :
+
+=== Éviter le risque : 
+
+Modifier ou interrompre l’activité à l’origine du risque.
+
+=== Réduire le risque : 
+
+Mettre en place des mesures de sécurité supplémentaires, comme des pare-feux ou des systèmes de détection d’intrusion.
+
+=== Transférer le risque : 
+
+Transférer le risque à un tiers, comme dans le cas de l’achat d'une assurance ou de l'externalisation de certains services.
+
+=== Accepter le risque : 
+
+Si le coût de la mitigation est plus élevé que le risque, il peut être toléré, à condition de surveiller son évolution.
+
+=== Planification des réponses aux incidents : 
+
+Pour les risques critiques, prévoir des plans de continuité ou des plans de reprise après sinistre afin de minimiser l’impact en cas de concrétisation.
+
+=== Outils utilisés :
+
+=== Matrice de gravité des risques : 
+
+Les risques sont placés dans une matrice qui croise la gravité (impact + probabilité) avec les priorités de l’organisation.
+
+=== Plan de gestion des risques : 
+
+Un document détaillant les mesures de traitement des risques pour chaque risque priorisé.
+
+=== Tableaux de bord des risques : 
+
+Utilisés pour surveiller l’évolution des risques et des mesures correctives.
+
+
+
+
+
+
